@@ -1,0 +1,36 @@
+"#01_dokumentation"
+
+interne links:
+[Speicherung von Metadaten](https://www.ianus-fdz.de/it-empfehlungen/metadaten-speicherung)
+[Dateiformate](https://www.ianus-fdz.de/it-empfehlungen/dateiformate)
+[Forschungsmethoden](https://www.ianus-fdz.de/it-empfehlungen/forschungsmethoden)
+
++
+
+"##01_dokumentation_metadaten"
+
+interner link:
+[Metadaten in der Anwendung](https://www.ianus-fdz.de/it-empfehlungen/metadaten-anwendung)
+
+"##02_strukturierung_metadaten":
+Bilder korrekt eingebunden?
+interner link: 
+[Grabungsdokumentation](https://www.ianus-fdz.de/it-empfehlungen/grabungsdokumentation)
+
++
+
+"##04_speicherung_metadaten"
+
+Bild korrekt eingebunden?
+interner link: 
+[Dateiformate](https://www.ianus-fdz.de/it-empfehlungen/dateiformate)
+
++
+
+##05_metadaten_anwendung"
+
+3 Tabellen fehlen.
+interner links: 
+[Archivierung von Forschungsdaten in IANUS](https://www.ianus-fdz.de/it-empfehlungen/?q=node/44)
+[Kapiteln zu den jeweiligen Formaten](https://www.ianus-fdz.de/it-empfehlungen/dateiformate)
+[Forschungsmethoden](https://www.ianus-fdz.de/it-empfehlungen/forschungsmethoden)

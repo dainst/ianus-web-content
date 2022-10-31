@@ -1,0 +1,8 @@
+# content/it-empfehlungen/forschungsmethoden/georeferenzierung.md
+
+Hier wird am Ende "Sie bitte Seite 28 des IT-Leitfadens des" auf einen Download verwiesen der nicht mehr existiert.
+
+# content/it-empfehlungen/forschungsmethoden/dom-dgm.md
+
+Die Quellen müssen aufgeräumt werden, derzeit ein einzeiliger Text.
+
