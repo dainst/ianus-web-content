@@ -68,4 +68,48 @@ Für den Eingang einer neuen Datensammlung in den Archivbestand von IANUS ist di
 
 # Aufbereitung der Daten durch IANUS
 
+Während der Datenübertragungsphase (Ingest-Phase) werden aus dem validierten Einlieferungspaket alle digitalen Objekte und Metadaten extrahiert und in eine für die Langzeitarchivierung geeignete Form überführt. Am Ende liegt ein Archivpaket (Archival Information Package - AIP) vor, das zur Bitstream Preservation an ein vertragliches Rechenzentrum übertragen wird. Die erforderlichen Arbeitsschritte werden primär von den IANUS-Datenkuratoren ausgeführt, die durch das IANUS-Archiv-System unterstützt werden, das neben der Protokollierung aller Veränderungen an den Daten vor allem auch die automatisierbaren Aufgaben ausführt und den gesamten Prozess steuert. Die Prozesse werden nun erneut mit dem endgültigen, für die Archivierung und Bereitstellung vorgesehenen Datenbestand durchgeführt und entsprechend vollständig dokumentiert. Für den Eingabeprozess wird davon ausgegangen, dass die Mitwirkung und Zuarbeit eines Datengebers nur noch bei neuen Problemsituationen oder in Zweifelsfällen erforderlich ist.
 
+Flowchart des Einlieferungsprozesses bei IANUS © IANUS
+
+Vom Einlieferungsprozess (SIP) zum Archivpaket (AIP)
+
+Zunächst werden eine aktuelle Dateiliste erstellt und die Verzeichnisstruktur vollständig als strukturelle Metadaten in der METS-Datei abgebildet. Dabei wird erneut für jede Datei mit Hilfe einer Hashfunktion (z.B. md5 oder SHA-3) eine Checksumme erzeugt, um im weiteren Verarbeitungsprozess ungewollte Fehler rasch ermitteln zu können. Außerdem wird jedem digitalen Objekt ein IANUS-interner Universal Unique Identifier (UUID) zugewiesen, damit Informationen ohne eine zentrale Koordination eindeutig aufgefunden und referenziert werden können. Für die interne, aber auch die externe Ansprache der Datensammlung als Ganzes wird ein DOI als persistenter Identifikator reserviert und die hierfür erforderlichen Metadaten aus den bereits vorliegenden Informationen von dem IANUS-Datenkurator extrahiert. Sofern nicht bereits in der Übergabephase geschehen, werden nun Leer- und Sonderzeichen in Ordner- und Dateinamen nach festgelegten Regeln durch unproblematische Zeichen ersetzt, wobei der alte, unveränderte Datei- bzw. Ordnername in der PREMIS-Datei protokolliert wird.
+
+Im nächsten Schritt werden alle formatspezifischen technischen Metadaten aus den digitalen Objekten ausgelesen, um auf dieser Basis über die weiteren Arbeitsschritte entscheiden zu können. Hierbei kommen verschiedene Tools und Webservices zum Einsatz, die im Bereich der digitalen Langzeitarchivierung weit verbreitet sind:
+
+FITS (File Information Tool Set), das verschiedene Komponenten wie DROID, Apache TIKA, JHOVE, Exitfool, Metadata extration Tool beinhaltet
+
+Als Ergebnis der Formatidentifikation werden unter anderem sog. PRONOM Identifier geliefert, die nicht nur Auskunft über das erkannte Dateiformat selbst geben, sondern auch Informationen über die Version eines Dateiformates enthalten. Als zweiter Schritt ist eine Dateivalidierung notwendig, bei der geprüft wird, ob eine Datei tatsächlich der technischen Spezifikation für das identifizierte Format entspricht.
+
+Anhand dieser technischen Angaben und der zuvor mit dem Datengeber vereinbarten zu erhaltenden Eigenschaften legt ein Datenkurator nun die weitere Erhaltungsstrategie für eine Datensammlung fest und entwickelt einen Migrationsplan. Er wählt also die am besten für die Archivierung geeigneten Zielformate aus und entscheidet über die Frage, welche digitalen Objekte automatisiert nach den einheitlichen Standardregeln zur Formatmigration von IANUS prozessiert werden können und welche Dateien eine davon abweichende – insbesondere eine manuelle – Kuratierung benötigen, z.B. weil es sich um Spezialformate handelt, die von Tools nicht erkannt werden oder weil besondere signifikante Eigenschaften zu berücksichtigen sind. Egal welche Strategie angewandt wird, muss das Ergebnis teils automatisiert, teils manuell überprüft werden. Im Falle eines fehlerhaften Ergebnisses kann auf ein originales digitales Objekt, das in einem SIP unverändert enthalten ist, zurückgegriffen werden und es mit angepassten Parametern erneut verarbeitet werden.
+
+Neben diesen formatbezogenen Aufgaben, die stärker die technischen Aspekte einer Datensammlung betreffen, ist während des Ingests die detaillierte Überprüfung aller inhaltlichen Informationen notwendig, damit eine fachlich sinnvolle Nachnutzung gewährleistet ist. Diese Qualitätssicherung muss überwiegend manuell durch einen Datenkurator geleistet werden, der die vorliegenden Metadaten und zugehörige Dokumente sowohl bezogen auf einzelne Dateien als auch auf die gesamte Datensammlung redigiert, ergänzt und standardisiert. Neben den fachspezifischen Erschließungsinformationen werden auch die übrigen Metadaten wie administrative und rechtliche sowie Angaben zur Provenienz eingehend zu prüfen und ggf. zu vervollständigen. Weiterhin werden Beziehungen und Referenzen zu anderen Ressourcen – sowohl innerhalb des IANUS-Archivbestandes als auch zu externen Quellen - geprüft oder neu angelegt und in den entsprechenden Abschnitten der METS-Datei festgehalten.
+
+Je nach der Strukturierung der digitalen Objekte innerhalb einer Datensammlung kann es zudem notwendig sein, die Verzeichnisstruktur abzuändern und/oder Dateien umzubenennen. Es muss von Fall zu Fall entschieden werden, ob eine solche Anpassung eher zur Erhöhung der Archivierbarkeit oder eher zur Verbesserung der Nachnutzbarkeit dient, diese Arbeiten also bereits während des Ingest-Prozesses vorgenommen werden sollten oder erst später als Vorbereitung für die Bereitstellung sinnvoll sind.
+
+Flowchart des Archivierungsprozesses bei IANUS © IANUS
+
+# Finalisierung des Archivpakets (AIP)
+
+Die anschließenden Arbeitsschritte zur Finalisierung eines Achivpakets dienen vor allem der Qualitätssicherung des gesamten Kuratierungsprozesses und des Ergebnisses. Daher ist das neu entstandene Archivpaket auf seine Konsistenz und seine Authentizität hin zu überprüfen:
+
+- Ist das Informationspaket in sich schlüssig und sind die zugehörigen Metadaten frei von Widersprüchen?
+- Wurden alle Veränderungen nachvollziehbar dokumentiert, so dass sie zu einem späteren Zeitpunkt wiederholt bzw. rückgängig gemacht werden können?
+- Sind die Urheber und der Zeitpunkt von Ergänzungen und Neuerungen lückenlos protokolliert?
+
+Zur Beantwortung dieser Fragen dient das System IANUS.ingest, in dem kontinuierlich die Arbeitsschritte dokumentiert werden und das ggf. mit noch fehlenden Informationen zu vervollständigen ist. Zur Qualitätssicherung dient auch, dass ein 2. Datenkurator unabhängig von dem eigentlichen Bearbeiter einer Datensammlung das Einlieferungspaket als Ausgangsdatenbestand, das Ergebnis der Kuratierung als Archivpaket und die Dokumentation der Arbeitsschritte überprüft und die Korrektheit des gesamten Vorganges bestätigt.
+
+Die letzten Aufgaben ähneln der Finalisierung eines Einlieferungspakets, beinhalten also:
+
+- die Komprimierung des AIPs in ein BagIt-Format zu schnelleren Datenübertragung
+- die Übertragung des AIPs auf lokale Backup-Server
+- die Übertragung an vertraglich festgelegte Rechenzentren zur bitstream preservation
+- die Überprüfung der beiden Kopiervorgänge
+- Import der finalen Metadaten in das System IANUS.data-management.
+
+Erstellung des Darstellungspakets (DIP)
+
+Das Darstellungspaket wird automatisiert im Archivsystem von IANUS erstellt und wird für die Darstellung im Datenportal prozessiert. Hier werden alle Formate verwendet, die sich für eine schnelle Darstellung im Web eignen und nicht langzeitarchivierungsfähig sein müssen. Die bereits im SIP erfassten Projekt- und Dateimetadaten werden gemeinsam mit den Forschungsdaten im Datenportal angezeigt und können heruntergeladen werden.
+
+IANUS Datenportal digitaler Forschungsdaten aus Archäologie & Altertumswissenschaften: http://datenportal.ianus-fdz.de/
