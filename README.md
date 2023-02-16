@@ -1,7 +1,7 @@
 # Redaktion
 
 
-##Dateiheader
+## Dateiheader
 
 ```
 ---
@@ -16,7 +16,7 @@ downloads:
 ````
 
 
-##Beispiele
+## Beispiele
 
 in /it-empfehlungen liegt eine Datei _template.md. Diese kann als Vorlage dienen.
 
