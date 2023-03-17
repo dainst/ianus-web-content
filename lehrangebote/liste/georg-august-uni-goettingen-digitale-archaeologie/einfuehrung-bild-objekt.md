@@ -22,7 +22,6 @@ inhalte:
   - Digitale Datenauswertung
   - Digitalisierung
 
-beschreibung: Neben aktuellen Forschungsfragen werden die wichtigsten Konzepte, Fachbegriffe, Methoden und Tools der Digital Humanities (und besonders der Digitalen Bild- und Objektwissenschaft) vermittelt. Eine Vielzahl von Good Practice Beispielen soll zudem die Möglichkeiten veranschaulichen, die mit dieser neuen Disziplin verbunden sind.
-Am Ende jeder Stunde werden die jeweiligen Kompetenzen und Fachkenntnisse genannt, die die Studierenden erworben haben, und mögliche Klausurfragen angegeben.
+beschreibung: Neben aktuellen Forschungsfragen werden die wichtigsten Konzepte, Fachbegriffe, Methoden und Tools der Digital Humanities (und besonders der Digitalen Bild- und Objektwissenschaft) vermittelt. Eine Vielzahl von Good Practice Beispielen soll zudem die Möglichkeiten veranschaulichen, die mit dieser neuen Disziplin verbunden sind. Am Ende jeder Stunde werden die jeweiligen Kompetenzen und Fachkenntnisse genannt, die die Studierenden erworben haben, und mögliche Klausurfragen angegeben.
 
 ---
