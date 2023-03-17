@@ -18,7 +18,4 @@ inhalte:
   
 beschreibung: Porträtforschung ist eine zentrale Disziplin der Klassischen Archäologie. Das liegt nicht zuletzt daran, dass diese Objektgruppe fest datiert ist und Hinweise über Stil, Herrscherbilder und Darstellungskonventionen zu unterschiedlichen Zeiten der römischen Antike liefern kann. In der Analyse von Kaiserporträts werden insbesondere Methoden des Detailvergleichs zwischen den Objekten angewandt. Und genau das soll in dieser Übung mit digitalen Methoden erlernt werden. Mit hochauflösenden Weißlichtscans und dem Programm meshlab (https://www.meshlab.net/) werden wir zentralen Fragen der Porträtforschung mit digitalen Maßvergleichen nachgehen.
 
-Vorkenntnisse der Klassischen Archäologie sind nicht notwendig.
-
-Wir werden eine Digitalisierungskampagne im August-Kästner Museum in Hannover durchführen und dort im Museum Originale anschauen. Hierfür ist eine formlose Anmeldung per E-Mail an marta.kipke@uni-goettingen.de zwingend notwendig.
 ---
