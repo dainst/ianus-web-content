@@ -23,7 +23,8 @@ Der Transfer einer neuen Datensammlung an IANUS kann auf unterschiedliche Weise 
 
 Die Datenpakete die an IANUS übertragen werden heißen im Folgenden Transferpakete.
 
-> @todo fehlt? Flowchart des Transferprozesses bei IANUS © IANUS.
+![Workflow_LZA-einfach_nichttechnisch_2015-09-15_Final_klein](https://user-images.githubusercontent.com/29372760/226926196-cd1d1cb6-8314-4a2a-a321-a893ca55b809.png)
+Flowchart des Transferprozesses bei IANUS © IANUS.
 
 ### Übernahmeprozesse bei IANUS
 
