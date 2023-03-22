@@ -23,7 +23,7 @@ Der Transfer einer neuen Datensammlung an IANUS kann auf unterschiedliche Weise 
 
 Die Datenpakete die an IANUS übertragen werden heißen im Folgenden Transferpakete.
 
-![Workflow_LZA-einfach_nichttechnisch_2015-09-15_Final_klein](https://user-images.githubusercontent.com/29372760/226926196-cd1d1cb6-8314-4a2a-a321-a893ca55b809.png)
+![transfer-workflow_UserView_2016-09-28_final](https://user-images.githubusercontent.com/29372760/226942569-3b277f6f-db9e-4c50-aab1-896defbce0f8.jpeg)
 Flowchart des Transferprozesses bei IANUS © IANUS.
 
 ### Übernahmeprozesse bei IANUS
@@ -71,6 +71,7 @@ Für den Eingang einer neuen Datensammlung in den Archivbestand von IANUS ist di
 
 Während der Datenübertragungsphase (Ingest-Phase) werden aus dem validierten Einlieferungspaket alle digitalen Objekte und Metadaten extrahiert und in eine für die Langzeitarchivierung geeignete Form überführt. Am Ende liegt ein Archivpaket (Archival Information Package - AIP) vor, das zur Bitstream Preservation an ein vertragliches Rechenzentrum übertragen wird. Die erforderlichen Arbeitsschritte werden primär von den IANUS-Datenkuratoren ausgeführt, die durch das IANUS-Archiv-System unterstützt werden, das neben der Protokollierung aller Veränderungen an den Daten vor allem auch die automatisierbaren Aufgaben ausführt und den gesamten Prozess steuert. Die Prozesse werden nun erneut mit dem endgültigen, für die Archivierung und Bereitstellung vorgesehenen Datenbestand durchgeführt und entsprechend vollständig dokumentiert. Für den Eingabeprozess wird davon ausgegangen, dass die Mitwirkung und Zuarbeit eines Datengebers nur noch bei neuen Problemsituationen oder in Zweifelsfällen erforderlich ist.
 
+![PreIngest-workflow_UserView_2017-03-03_final](https://user-images.githubusercontent.com/29372760/226942833-a7b648ca-4a19-4ff5-a206-cfd4bc5f030f.jpeg)
 Flowchart des Einlieferungsprozesses bei IANUS © IANUS
 
 Vom Einlieferungsprozess (SIP) zum Archivpaket (AIP)
@@ -89,6 +90,7 @@ Neben diesen formatbezogenen Aufgaben, die stärker die technischen Aspekte eine
 
 Je nach der Strukturierung der digitalen Objekte innerhalb einer Datensammlung kann es zudem notwendig sein, die Verzeichnisstruktur abzuändern und/oder Dateien umzubenennen. Es muss von Fall zu Fall entschieden werden, ob eine solche Anpassung eher zur Erhöhung der Archivierbarkeit oder eher zur Verbesserung der Nachnutzbarkeit dient, diese Arbeiten also bereits während des Ingest-Prozesses vorgenommen werden sollten oder erst später als Vorbereitung für die Bereitstellung sinnvoll sind.
 
+![Ingest-workflow_UserView_2017-06-02_final](https://user-images.githubusercontent.com/29372760/226942736-ed922502-a667-4860-9cdb-9318acf04313.jpeg)
 Flowchart des Archivierungsprozesses bei IANUS © IANUS
 
 # Finalisierung des Archivpakets (AIP)
