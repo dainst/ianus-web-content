@@ -1,10 +1,10 @@
----
+Ôªø---
 title: Antike Landschaften mit GIS betrachten und analysieren 
-lehrende: Weissov·, Barbora
-einrichtung: Ruhr-Universit‰t Bochum
+lehrende: Weissov√°, Barbora
+einrichtung: Ruhr-Universit√§t Bochum
 stadt: Bochum
-studiengang: Arch‰ologische Wissenschaften
-lv-typ: ‹bung
+studiengang: Arch√§ologische Wissenschaften
+lv-typ: √úbung
 link: https://www.ruhr-uni-bochum.de/archaeologie/index.html.de
 zielgruppe:
   - BA
