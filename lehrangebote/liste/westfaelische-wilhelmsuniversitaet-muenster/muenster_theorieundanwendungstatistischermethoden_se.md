@@ -1,4 +1,4 @@
-﻿---
+---
 title: Theorie und Anwendung statistischer Methoden zur Gräberfeld- und Siedlungsanalyse
 lehrende: Siegmund, Frank
 einrichtung: Westfälische Wilhelms-Universität Münster – Abteilung für Ur- und Frühgeschichtliche Archäologie

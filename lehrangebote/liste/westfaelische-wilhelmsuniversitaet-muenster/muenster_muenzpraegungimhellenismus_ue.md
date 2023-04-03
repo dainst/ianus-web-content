@@ -1,10 +1,10 @@
 ---
-title: Münzprägung im Hellenismus
+title: MÃ¼nzprÃ¤gung im Hellenismus
 lehrende: Martin, Katharina
-einrichtung: Westfälische Wilhelms-Universität Münster
-stadt: Münster
+einrichtung: WestfÃ¤lische Wilhelms-UniversitÃ¤t MÃ¼nster
+stadt: MÃ¼nster
 studiengang: BA "Klass. u. Christl. Arch.", MA "Klass. u. Christl. Arch."; MA "AKOEM"
-lv-typ: Übung
+lv-typ: Ãœbung
 link: https://studium.uni-muenster.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=verpublish&status=init&vmfile=no&publishid=384006&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 zielgruppe:
   - BA
