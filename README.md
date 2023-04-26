@@ -1,5 +1,6 @@
 # Redaktion
 
+Neue Inhalte können per Pull Request online gestellt werden, siehe [Wiki](https://github.com/dainst/ianus-web-content/wiki/Erstellung-von-Lehrangeboten).
 
 ## Dateiheader
 
