@@ -14,7 +14,6 @@ Format | Extension | Status | Kommentar
 PDF/A-1 | .pdf   | präferiert  | -a oder -u
 PDF/A-2 | .pdf   | präferiert  | -a oder -u
 PDF/A-3 | .pdf   | akzeptiert  | -a oder -u; nach eingehender Prüfung
-
   
 </details>
 
@@ -67,8 +66,6 @@ Excel Tabellen (.xlsx oder auch .xls) genauso wie die Open- oder Libreoffice Dat
   
 </details>
 
-<details><summary>3D-Daten</summary>
-
 <details><summary>GIS-Daten</summary>
   
   Details finden Sie in den IT-Empfehlungen im Kapitel [GIS](https://ianus-fdz.de/it-empfehlungen/dateiformate/gis).
@@ -97,7 +94,6 @@ Wavefront OBJ |	.obj + .tiff/.tif|	präferiert |
 Polygon File Format |	.ply + .tiff/.tif	|	präferiert | 
 ASCII Text File |	.txt |	präferiert | 
 Raw XYZ|	.xyz, .txt etc. |	präferiert | 
-
   
 </details>
 
