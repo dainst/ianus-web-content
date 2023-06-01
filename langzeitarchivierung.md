@@ -1,5 +1,138 @@
 # Archivierung bei IANUS
 
+
+Bitte beachten Sie **unbedingt** die nachdolgenden Informationen zu den akzeptierten Datenformaten (*ausklappbar*). Nicht jedes Dateiformat ist für die Langzeitarchivierung geeignet, weshalb dies ein zentrales Thema der IT-Empfehlungen ist. Nur in Ausnahmefällen können abweichende Dateiformate langzeitarchiviert werden und hier muss dies entsprechend in der preservation policy vermerkt werden sowie im Datenübergabevertrag. Bitte sprechen Sie mit uns in diesem Fall. Dies sind die gängigen Datiformate und die Liste erhebt keinen Anspruch auf Vollständigkeit. 
+
+### Präferierte und akzeptierte Dateiformate
+
+<details><summary>PDF-Dokumente</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [PDF-Dokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/pdf-dokumente).
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+PDF/A-1 | .pdf   | präferiert  | -a oder -u
+PDF/A-2 | .pdf   | präferiert  | -a oder -u
+PDF/A-3 | .pdf   | akzeptiert  | -a oder -u; nach eingehender Prüfung
+
+  
+</details>
+
+<details><summary>Text-Dokumente</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [Textdokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/textdokumente).
+  Wichtig ist hier, dass eingebundene Inhalte ebenfalls erhalten werden können. Insbesondere bei eingebundenen Bildern, Formeln oder künstlerischen Grafiken ist dies zu beachten. 
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+Open Document Format| .odt   | präferiert  | 
+Microsoft Office XML |	.docx |	präferiert |
+Reiner Text, plain text	 |	.txt |	präferiert |
+Strukturierter Text, Markup	 |	.xml, .sgml, .html etc. + .dtd, .xsd etc.	|	präferiert |
+Rich Text Format	 |	.rtf	|	akzeptiert |
+PDF/A | .pdf   | akzeptiert  | -a oder -u
+  
+</details>
+
+<details><summary>Bilder & Rastergrafiken</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [Bilder – Rastergrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/rastergrafiken).
+  Wichtig ist hier, dass es sich um möglichst nicht kompimierte Formate handelt. Insbesondere proprietäre Kameraformate der Herstller können nicht archiviert werden.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+Baseline TIFF v. 6, unkomprimiert | .tiff, .tif   | präferiert  | 
+Adobe Digital Negative |	.dng |	präferiert |
+Portable Network Graphics |	.png |	akzeptiert | nur wenn ein TIFF nicht möglich oder sinnvoll ist (z.B. 3D-Modelle)
+Joint Photographic Expert Group |	.jpeg, .jpg	|	akzeptiert | nur wenn ein TIFF nicht möglich oder sinnvoll ist 
+JPEG2000 |	.jp2, .jpx	|	akzeptiert | nur wenn ein TIFF nicht möglich oder sinnvoll ist 
+  
+</details>
+
+<details><summary>Tabellen & Datenbanken </summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [Tabellen](hhttps://ianus-fdz.de/it-empfehlungen/dateiformate/tabellen) und [Datenbanken](https://ianus-fdz.de/it-empfehlungen/dateiformate/datenbanken).
+  Wichtig ist hier, die Datenentstehung und insbesondere alle Codes in den Metadaten zu vermerken. Alle Beziehungen zu den Daten sowie alle notwendigen Details für die Lesbarkeit der Daten sollten gut dokumentiert werden.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+Delimited text  | .csv, .tsv, .tab, .txt  | präferiert  | 
+SQL Datenbanken | .csv, .xml | präferiert  | 
+No-SQL Datenbanken | .json, .xml  | präferiert  | 
+Microsoft Office Open XML | .csv, .tsv, .tab, .txt  | akzeptiert  | 
+LibreOffice and Apache OpenOffice  Calc  | .ods| akzeptiert  | 
+
+
+Excel Tabellen (.xlsx oder auch .xls) genauso wie die Open- oder Libreoffice Dateien können nicht allein langzeitarchiviert werden, da Informationen wie Markierungen oder Hervorhebungen oder auch in den Tabellen durchgeführte Berechnungen potentiell nicht mehr lesbar sind in 100+ Jahren. Es ist jedoch unter Umständen sinnvoll .xlsx oder auch .ods zusötzlich zu archivieren.
+  
+</details>
+
+<details><summary>3D-Daten</summary>
+
+<details><summary>GIS-Daten</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [GIS](https://ianus-fdz.de/it-empfehlungen/dateiformate/gis).
+  Wichtig ist hier, die Datenentstehung und insbesondere EPSG bzw. CRS in den Metadaten zu vermerken.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+ESRI Shapefile | .shp + .shx + .dbf  | akzeptiert  | 
+GeoJSON |	.geojson|	präferiert |
+Geography Markup Language  |	.gml|	präferiert | 
+Koordinaten / Rohdaten  |	.xyz, .csv/.tsv, .txt, .xml etc. |	präferiert | Alle Formate die auch als Tabellen oder Datenbanken erhalten werden können.
+Raster (GeoTIFF etc.) |	.tiff/.tif + .xml/.txt|	präferiert | Alle Formate die auch als Bilder oder Koordinaten erhalten werden können. Textdokumente mit dokumentierten Bild-Koordinaten oder GPC sind ebenfalls möglich.
+  
+</details>
+
+<details><summary>3D-Daten</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [3D und Virtual Reality](https://ianus-fdz.de/it-empfehlungen/dateiformate/3d).
+  Wichtig ist hier, Entscheidungen zu treffen für welche Modelle auch die Originalbilder erhalten werden sollen. Proprietäre Formate der Herstller können nicht archiviert werden.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+Extensible 3D | .x3d + .tiff/.tif   | präferiert  | 
+COLLAborative Design Activity (COLLADA) |	.dae + .tiff/.tif|	präferiert |
+Wavefront OBJ |	.obj + .tiff/.tif|	präferiert | 
+Polygon File Format |	.ply + .tiff/.tif	|	präferiert | 
+ASCII Text File |	.txt |	präferiert | 
+Raw XYZ|	.xyz, .txt etc. |	präferiert | 
+
+  
+</details>
+
+<details><summary>Vector-Grafiken</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [Vektorgrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/vektorgrafiken).
+  Wichtig ist hier, Entscheidungen zu treffen für welche Modelle auch die Originalbilder erhalten werden sollen. Proprietäre Formate der Herstller können nicht archiviert werden. Es ist sinnvoll neben den reinen Daten auch eine Ansichtsgestaltung zu erhalten, damit der orginale Kontext nicht verloren geht. Für CAD-Daten und Konstruktionszeichnungen werden mehrere Versionen der Datei erhalten. Für Details kann auch der Report ["Preserving CAD" aus der Data Types Series der Digital
+Preservation Coalition](http://doi.org/10.7207/twgn21-15) konsultiert werden.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+SVG | .svg + .tiff/.tif / + PDF/A + .dxf   | präferiert  | bei reinen Vektorzeichnungen ist ein .svg ausreichend, nur bei komplexeren Zeichnungen sind zusätzliche Details notwendig. Dies wird im Preservation Plan dokumentiert.
+  
+</details>
+  
+<details><summary>Audio & Video</summary>
+  
+  Details finden Sie in den IT-Empfehlungen im Kapitel [Audio](https://ianus-fdz.de/it-empfehlungen/dateiformate/audio) und [Video](https://ianus-fdz.de/it-empfehlungen/dateiformate/video).
+  Wichtig ist hier, dass es sich bei den Dateiformaten für digitale Audiodateien um Containerformate handelt. Deshalb muss bei der Auswahl für die Langzeitarchivierung nicht nur ein passendes Format, sondern auch ein geeigneter Codec gefunden werden.
+  
+Format | Extension | Status | Kommentar
+-------- | -------- | -------- | --------
+Free Lossless Audio Codec | .flac | präferiert  | 
+Waveform Audio File Format  | .wav | präferiert  | 
+Broadcast Wave Format | .bwf | präferiert  | 
+Matroska| .mkv | präferiert  | Für die Archivierung können die Codecs FFV1 für Video und FLAC für Audio empfohlen werden. Weitere geeignete Codecs für Matroska sind H.264/MPEG-4 AVC und MPEG-2.
+MPEG1/2/4 | .mpeg/.mpg/MPEG4 .mp4 | präferiert  |
+  
+</details>
+  
+Sollten Sie Dateien in anderen Formaten vorliegen haben, kontaktieren Sie uns unter ianus-fdz[at]dainst.de. Für weitere Dateitypen finden Sie außerdem auf den Seiten des [ADS Anhaltspunkte](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/files-and-metadata/).
+
+## Archivierungsprozess
+*Der Workflow wird aktuell angepasst. Stand: 2023-06-01. Die Anpassung wird vorraussichtlich mindestens bis Ende Juli 2023 dauern. Bei Frangen kontaktieren Sie bitte ianus-fdz[at]dainst.de*
+
 Im Folgenden können Sie sich zu den Übernahme- und Archivierungsprozessen bei IANUS informieren. Da die Daten und Informationen im Forschungsdatenzentrum professionell archiviert werden müssen, werden die Prozesse entsprechend dem [Open Archival Information System (OAIS)](http://nestor.sub.uni-goettingen.de/handbuch/artikel/nestor_handbuch_artikel_183.pdf) Referenzmodell umgesetzt. Dieser OAIS-Standard definiert **drei Informationspakete***, die nacheinander nach bestimmten Vorgaben prozessiert werden. Die Bezeichnungen der Informationspakete wurden aus diesem Standard übernommen:
 
 - Einlieferungspaket = Submission Information Package - SIP
