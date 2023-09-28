@@ -1,10 +1,10 @@
 ---
-title: Einführung in QGIS
+title: EinfÃ¼hrung in QGIS
 lehrende: Latzel, Lucas
-einrichtung: Universität des Saarlandes
-stadt: Saarbrücken
-studiengang: Vor- und Frühgeschichte
-lv-typ: Übung
+einrichtung: UniversitÃ¤t des Saarlandes
+stadt: SaarbrÃ¼cken
+studiengang: Vor- und FrÃ¼hgeschichte
+lv-typ: Ãœbung
 link: https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=146649&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 zielgruppe:
   - BA
