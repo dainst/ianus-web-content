@@ -1,10 +1,10 @@
 ---
 title: Vom Foto zum Modell - Photogrammetrie Einsteigerkurs (Kurs 1)
 lehrende: Schnorr, Nils
-einrichtung: Universit‰t des Saarlandes
-stadt: Saarbr¸cken
-studiengang: Arch‰ologie
-lv-typ: ‹bung
+einrichtung: Universit√§t des Saarlandes
+stadt: Saarbr√ºcken
+studiengang: Arch√§ologie
+lv-typ: √úbung
 link: https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=146444&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 zielgruppe:
   - BA
