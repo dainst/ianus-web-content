@@ -1,5 +1,5 @@
 ---
-title: GIS 2: Analyse-Tools und forschungsbezogene Anwendungen
+title: "GIS 2: Analyse-Tools und forschungsbezogene Anwendungen"
 lehrende: Buchmann, Hannes
 einrichtung: Universität des Saarlandes
 stadt: Saarbrücken
