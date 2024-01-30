@@ -14,7 +14,7 @@ Das Deutsche Archäologische Institut ist eine Forschungsanstalt des Bundes im G
 
 ## Pressestelle
 
-Nicole Kehrer  
+Sebastian Dobberstein  
 Zentrale - Presse und Öffentlichkeitsarbeit
 
 ## Zuständigkeit www.ianus-fdz.de
