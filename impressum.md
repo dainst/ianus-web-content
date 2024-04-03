@@ -10,7 +10,7 @@ Fax: +49-(0)30-187711-191
 Email: info@dainst.de  
 Internet: www.dainst.org
 
-Das Deutsche Archäologische Institut ist eine Forschungsanstalt des Bundes im Geschäftsbereich des Auswärtigen Amts . Es wird vertreten durch die Präsidentin Prof. Dr. Friederike Fless. IANUS ist ein Projekt, dass für die Fachcommunity durch das DAI koordiniert wird.
+Das Deutsche Archäologische Institut ist eine Forschungsanstalt des Bundes im Geschäftsbereich des Auswärtigen Amts. Es wird vertreten durch die Präsidentin Prof. Dr. Friederike Fless. IANUS ist ein Projekt, dass für die Fachcommunity durch das DAI koordiniert wird.
 
 ## Pressestelle
 
