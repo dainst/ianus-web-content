@@ -32,7 +32,7 @@ Das Deutsche Archäologische Institut & IANUS sind bemüht, ihr Webangebot stets
 
 Wenn nicht anders gekennzeichnet, sind die Inhalte und Materialien
 
-- der [IANUS-Homepage](www.ianus-fdz.de)
+- der [IANUS-Homepage](http://www.ianus-fdz.de)
 - der von [IANUS herausgegebenen IT-Empfehlungen](www.ianus-fdz.de/it-empfehlungen)
 - des von [IANUS betriebenen Datenportals](http://datenportal.ianus-fdz.de)
 
