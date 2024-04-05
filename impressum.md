@@ -21,7 +21,8 @@ Zentrale - Presse und Öffentlichkeitsarbeit
 
 Prof. Friederike Fless  
 Dr. Philipp von Rummel  
-Dr. Peter Baumeister 
+Dr. Peter Baumeister
+ 
 E-Mail: ianus@dainst.de
 
 ## Haftungsausschluss
