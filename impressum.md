@@ -20,8 +20,8 @@ Zentrale - Presse und Öffentlichkeitsarbeit
 ## Zuständigkeit www.ianus-fdz.de
 
 Prof. Friederike Fless  
-Prof. Ortwin Dally  
-Prof. Reinhard Förtsch  
+Dr. Philipp von Rummel  
+Dr. Peter Baumeister 
 E-Mail: ianus@dainst.de
 
 ## Haftungsausschluss
@@ -36,7 +36,7 @@ Wenn nicht anders gekennzeichnet, sind die Inhalte und Materialien
 - der von [IANUS herausgegebenen IT-Empfehlungen](http://www.ianus-fdz.de/it-empfehlungen)
 - des von [IANUS betriebenen Datenportals](http://datenportal.ianus-fdz.de)
 
-lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 International Lizenz](http://creativecommons.org/licenses/by-sa/3.0/).
+lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Insbesondere bei den Daten, die über das Datenportal zur Nachnutzung Verfügung gestellt werden, sind die Lizenzhinweise und Nutzungsbedingungen der einzelnen Datensammlungen zu beachten, die im Einzelfall von dieser CC-BY-SA Lizenz abweichen können.
 
