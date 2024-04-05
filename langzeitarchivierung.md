@@ -127,19 +127,15 @@ MPEG1/2/4 | .mpeg/.mpg/MPEG4 .mp4 | präferiert  |
 Sollten Sie Dateien in anderen Formaten vorliegen haben, kontaktieren Sie uns unter ianus-fdz@dainst.de. Für weitere Dateitypen finden Sie außerdem auf den Seiten des [ADS Anhaltspunkte](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/files-and-metadata/) Hinweise.
 
 ## Archivierungsprozess
-*Der Workflow wird aktuell angepasst. Stand: 2023-06-01. Die Anpassung wird vorraussichtlich mindestens bis Ende Juli 2023 dauern. Bei Fragen kontaktieren Sie bitte ianus-fdz@dainst.de*
+*Der Workflow wird aktuell angepasst. Stand: 2023-06-01. Die Anpassung wird vorraussichtlich mindestens bis Ende 2024 dauern. Bei Fragen kontaktieren Sie bitte ianus-fdz@dainst.de*
 
-Im Folgenden können Sie sich zu den Übernahme- und Archivierungsprozessen bei IANUS informieren. Da die Daten und Informationen im Forschungsdatenzentrum professionell archiviert werden müssen, werden die Prozesse entsprechend dem [Open Archival Information System (OAIS)](http://nestor.sub.uni-goettingen.de/handbuch/artikel/nestor_handbuch_artikel_183.pdf) Referenzmodell umgesetzt. Dieser OAIS-Standard definiert **drei Informationspakete***, die nacheinander nach bestimmten Vorgaben prozessiert werden. Die Bezeichnungen der Informationspakete wurden aus diesem Standard übernommen:
+Im Folgenden können Sie sich zu den Übernahme- und Archivierungsprozessen bei IANUS informieren. Da die Daten und Informationen im Forschungsdatenzentrum professionell archiviert werden müssen, werden die Prozesse entsprechend dem [Open Archival Information System (OAIS)](http://nestor.sub.uni-goettingen.de/handbuch/artikel/nestor_handbuch_artikel_183.pdf) Referenzmodell umgesetzt. Dieser OAIS-Standard definiert **drei Informationspakete**, die nacheinander nach bestimmten Vorgaben prozessiert werden. Die Bezeichnungen der Informationspakete wurden aus diesem Standard übernommen:
 
 - Einlieferungspaket = Submission Information Package - SIP
 - Archivierungspaket = Archival Information Package - AIP
 - Darstellungspaket = Dissemination Information Package - DIP 
 
-Vereinfacht kann man sich die Erstellung dieser Informationspakete sowie die Abgabe, Nutzung und Archivierung der Forschungsdaten wie folgt vorstellen:
-
-Überblick Arbeitsabläufe bei IANUS, Maurice Heinrich
-
-Datenübertragung der Forschungsdaten an IANUS
+### Datenübertragung der Forschungsdaten an IANUS
 
 Nach der Registrierung im IANUS-Archivsystem kann der Datengeber seine initialen Metadaten der Datensammlung eingeben, die vom IANUS-Kurator geprüft werden. Passt die Datensammlung in die [Sammlungsstrategie](http://datenportal.ianus-fdz.de/resources/documents/Sammlungsstrategie.pdf) erfolgt nach Rückmeldung des IANUS-Kurators an den Datengeber die Freigabe des Datenuploads.
 
