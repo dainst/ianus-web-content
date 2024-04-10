@@ -236,7 +236,7 @@ Die letzten Aufgaben ähneln der Finalisierung eines Einlieferungspakets, beinha
 - die Überprüfung der beiden Kopiervorgänge
 - Import der finalen Metadaten in das System IANUS.data-management.
 
-Erstellung des Darstellungspakets (DIP)
+# Erstellung des Darstellungspakets (DIP)
 
 Das Darstellungspaket wird automatisiert im Archivsystem von IANUS erstellt und wird für die Darstellung im Datenportal prozessiert. Hier werden alle Formate verwendet, die sich für eine schnelle Darstellung im Web eignen und nicht langzeitarchivierungsfähig sein müssen. Die bereits im SIP erfassten Projekt- und Dateimetadaten werden gemeinsam mit den Forschungsdaten im Datenportal angezeigt und können heruntergeladen werden.
 
