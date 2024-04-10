@@ -2,7 +2,7 @@
 
 ## Kurzinformationen zu IANUS
 
-- [Mission Statement/Leitbild zum Download](files/2012-12-17_MissionStatement.pdf)
+- [Mission Statement/Leitbild zum Download](http://ianus-fdz.de/files/2012-12-17_MissionStatement.pdf)
 - [Kurzporträt zum Download](files/Kurzportraet_2013-05-21.pdf)
 - [Flyer zum Download](files/RZ-DAI-IANUS-flyer_Final_web_2013-10-17.pdf)
 - [Plakat zum Download](<files/IANUS Plakat A1_web.pdf>) ([Permalink](hdl.handle.net/11858/00-1780-0000-0022-DBE6-A))
