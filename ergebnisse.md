@@ -3,14 +3,14 @@
 ## Kurzinformationen zu IANUS
 
 - [Mission Statement/Leitbild zum Download](files/2012-12-17_MissionStatement.pdf)
-- [Kurzporträt zum Download](files/Kurzportraet_2013-05-21)
+- [Kurzporträt zum Download](files/Kurzportraet_2013-05-21.pdf)
 - [Flyer zum Download](files/RZ-DAI-IANUS-flyer_Final_web_2013-10-17.pdf)
 - [Plakat zum Download](<files/IANUS Plakat A1_web.pdf>) ([Permalink](hdl.handle.net/11858/00-1780-0000-0022-DBE6-A))
 - [Antike Digital Broschüre zum Download](files/Ianus_Broschuere_web.pdf) 
 
 ## Fach- und Organisationskonzept
 
-Das nachfolgende Fach- und Organisationskonzrpt zum Betrieb eines nationalen Forschungsdatenzentrums für die Archäologien und Altertumswissenschaften in Deutschland ist wesentlich in der ersten Förderphase von IANUS (2011-2014) entstanden und wurde im Januar 2016 aktualisiert.
+Das nachfolgende Fach- und Organisationskonzept zum Betrieb eines nationalen Forschungsdatenzentrums für die Archäologien und Altertumswissenschaften in Deutschland ist wesentlich in der ersten Förderphase von IANUS (2011-2014) entstanden und wurde im Januar 2016 aktualisiert.
 
 [Fach- und Organisationskonzept](files/Konzept-IANUS_v0-95_2016-01-12.pdf)
 
