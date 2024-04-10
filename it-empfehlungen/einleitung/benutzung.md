@@ -8,7 +8,7 @@ authors:
 
 # Benutzung der IT-Empfehlungen
 
-Die IT-Empfehlungen für den nachhaltigen Umgang mit digitalen Daten in den Altertumswissenschaften liegen sowohl in statischer Form als verschiedene PDF-Dateien vor, als auch in dynamischer Form auf [www.ianus-fdz.de/it-empfehlungen](https://www.ianus-fdz.de/it-empfehlungen/). Beide Formen sind inhaltlich identisch und können unabhängig voneinander verwendet werden. Die Webseite bietet neben vielfältigen Verlinkungen und Downloads weitere Funktionalitäten, zu denen auch eine Suchfunktion und ein integriertes Glossar gehören. Die PDF-Dokumente eignen sich dagegen z. B. als Hilfsmittel im Feld, das individuell ausgedruckt werden kann.
+Die IT-Empfehlungen für den nachhaltigen Umgang mit digitalen Daten in den Altertumswissenschaften liegen sowohl in statischer Form als verschiedene PDF-Dateien vor als auch in dynamischer Form auf [www.ianus-fdz.de/it-empfehlungen](https://www.ianus-fdz.de/it-empfehlungen/). Beide Formen sind inhaltlich identisch und können unabhängig voneinander verwendet werden. Die Webseite bietet neben vielfältigen Verlinkungen und Downloads weitere Funktionalitäten, zu denen auch eine Suchfunktion und ein integriertes Glossar gehören. Die PDF-Dokumente eignen sich dagegen z. B. als Hilfsmittel im Feld, das individuell ausgedruckt werden kann.
 
 Die IT-Empfehlungen umfassen neben diesem Einleitungskapitel die drei Kapitel **Projektphasen**, **Dateiformate** und **Forschungsmethoden**.
 

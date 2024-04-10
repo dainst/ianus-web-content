@@ -124,7 +124,7 @@ MPEG1/2/4 | .mpeg/.mpg/MPEG4 .mp4 | präferiert  |
   
 </details>
   
-Sollten Sie Dateien in anderen Formaten vorliegen haben, kontaktieren Sie uns unter ianus-fdz@dainst.de. Für weitere Dateitypen finden Sie außerdem auf den Seiten des [ADS Anhaltspunkte](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/files-and-metadata/) Hinweise.
+Sollten Sie Dateien in anderen Formaten vorliegen haben, kontaktieren Sie uns unter ianus-fdz@dainst.de. Für weitere Dateitypen finden Sie außerdem auf den Seiten des [ADS](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/files-and-metadata/) Anhaltspunkte.
 
 ## Archivierungsprozess
 *Der Workflow wird aktuell angepasst. Stand: 2023-06-01. Die Anpassung wird vorraussichtlich mindestens bis Ende 2024 dauern. Bei Fragen kontaktieren Sie bitte ianus-fdz@dainst.de*
