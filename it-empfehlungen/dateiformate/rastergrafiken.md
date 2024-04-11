@@ -253,7 +253,7 @@ Speziell für digitale Fotos im RAW-Format eignet sich der frei verfügbare DNG 
 Dateiformate können mit speziellen Programmen überprüft werden. Auch wenn das Dateiformat unbekannt ist, kann ein solches Programm helfen. Ein Programm, das speziell für die Langzeitarchivierung geeignete Datenformate überprüft ist JHOVE. Das Programm bildet die Grundlage für JHOVE2, einem Nachfolger von JHOVE.
 
 - Zamzar: http://www.zamzar.com/url/
-- Adobe DNG Converter: http://www.adobe.com/products/photoshop/extend.displayTab2.html\#downloads
+- Adobe DNG Converter: https://helpx.adobe.com/de/camera-raw/using/adobe-dng-converter.html
 - JHOVE: http://jhove.sourceforge.net/
 - JHOVE2: https://bitbucket.org/jhove2/main/wiki/Home
 
