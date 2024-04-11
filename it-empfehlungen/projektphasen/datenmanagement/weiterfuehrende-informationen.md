@@ -20,7 +20,7 @@ Archaeology Data Service, Planning for the Creation of Digital Data
 [http://guides.archaeologydataservice.ac.uk/g2gp/CreateData\_1-0](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-0)
 
 Archaeology Data Service, Data Management and Sharing Plans  
-[http://archaeologydataservice.ac.uk/advice/DataManagementPlans](http://archaeologydataservice.ac.uk/advice/DataManagementPlans)
+[https://archaeologydataservice.ac.uk/help-guidance/how-to-prepare-data/data-management-sharing-plans/](https://archaeologydataservice.ac.uk/help-guidance/how-to-prepare-data/data-management-sharing-plans/)
 
 Archaeology Data Service, DataTrain. Open Access Post-Graduate Teaching Materials in Managing Research Data in Archaeology  
 [https://archaeologydataservice.ac.uk/help-guidance/teaching-resources/data-train/](https://archaeologydataservice.ac.uk/help-guidance/teaching-resources/data-train/)
@@ -37,7 +37,7 @@ HU Berlin (Hrsg.)  Datenmanagementplan. Anleitung zur Erstellung eines Datenmana
 [https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp\_erstellen](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen)
 
 U. Jakobsson, Data Management Planning. What it is and how to do it (2013)  
-[(http://legacy.ariadne-infrastructure.eu/wp-content/uploads/2019/01/ARIADNE_EAA-Workshop_SND_UJakobsson.pdf](http://legacy.ariadne-infrastructure.eu/wp-content/uploads/2019/01/ARIADNE_EAA-Workshop_SND_UJakobsson.pdf)
+[http://legacy.ariadne-infrastructure.eu/wp-content/uploads/2019/01/ARIADNE_EAA-Workshop_SND_UJakobsson.pdf](http://legacy.ariadne-infrastructure.eu/wp-content/uploads/2019/01/ARIADNE_EAA-Workshop_SND_UJakobsson.pdf)
 
 H. Neuroth -- A. Oßwald -- R. Scheffel -- S. Strathmann -- M. Jehn (Hrsg.) nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchiverung. Version 2.0 (2009) Kap.3:15
 
