@@ -86,8 +86,8 @@ W3C (Hrsg.) Vocabularies
 - IANUS: [https://www.ianus-fdz.de/it-empfehlungen/archivierung](https://www.ianus-fdz.de/it-empfehlungen/archivierung)
 - CIDOC Conceptual Reference Model (Vers. 5.0.4): [http://www.cidoc-crm.org/](http://www.cidoc-crm.org/)
 - CIDOC-CRM, CRMarchaeo, CRMba, CRNdig und CRMgeo: [http://www.cidoc-crm.org/collaborations](http://www.cidoc-crm.org/collaborations)
-- Ariadne Reference Model: [http://www.ariadne-infrastructure.eu/Resources/Ariadne-Reference-Model](http://www.ariadne-infrastructure.eu/Resources/Ariadne-Reference-Model)
-- LIDO Lightweight Information Describing Objects: [http://network.icom.museum/cidoc/working-groups/lido/lido-technical/spec...](http://network.icom.museum/cidoc/working-groups/lido/lido-technical/specification/)
+- Ariadne Reference Model: [http://legacy.ariadne-infrastructure.eu/resources-2/ariadne-reference-model](http://legacy.ariadne-infrastructure.eu/resources-2/ariadne-reference-model)
+- LIDO Lightweight Information Describing Objects: [https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/)
 - MIDAS Heritage: [http://heritage-standards.org.uk/midas-heritage/](http://heritage-standards.org.uk/midas-heritage/)
 
 ## Kontrollierte Vokabulare, Thesauri und Normdaten
@@ -96,7 +96,7 @@ W3C (Hrsg.) Vocabularies
 - Heritage Data -- Linked Data Vocabularies for Cultural Heritage: [http://www.heritagedata.org/blog/vocabularies-provided/](http://www.heritagedata.org/blog/vocabularies-provided/)
 - Wortnetz Kultur (WNK): [http://www.digicult-verbund.de/vortraege/2015/WNK\_WortnetzKultur\_2015111...](http://www.digicult-verbund.de/vortraege/2015/WNK_WortnetzKultur_20151110.pdf)  
   [http://www.lvr.de/de/nav\_main/kultur/kulturwissen/digitales\_kulturerbe/d...](http://www.lvr.de/de/nav_main/kultur/kulturwissen/digitales_kulturerbe/digitales_kulturerbe_1.jsp)
-- iDAI.vocab: [http://archwort.dainst.org/](http://archwort.dainst.org/)
+<!--- iDAI.vocab: [http://archwort.dainst.org/](http://archwort.dainst.org/) i.DAI.vocab nicht mehr vorhanden?-->
 - iDAI.thesaurus: [http://thesauri.dainst.org/de/hierarchical\_concepts.html](http://thesauri.dainst.org/de/hierarchical_concepts.html)
 - Encyclopedia of Life: [http://eol.org/](http://eol.org/)
 - Wikidata: [https://www.wikidata.org/wiki/Wikidata:Main\_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)
