@@ -57,8 +57,7 @@ J. M. Lill, Kontrolliertes Vokabular. Wieso? Weshalb? Warum?, Fachgruppe Dokumen
 [https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file...](https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file/Lill_kontrolliertesVokabular_Nutzertreffen2012.pdf)
 
 J. Lindenthal, Normen und Standards für Thesauri (2015)  
-[https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf](https://www.ianus-fdz.de/downloads/files
-/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf)
+[https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf](https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf)
 
 nestor (Hrsg.) Standardisierung -- Metadaten  
 [https://wiki.dnb.de/display/NESTOR/Metadaten](https://wiki.dnb.de/display/NESTOR/Metadaten)
@@ -81,7 +80,7 @@ W3C (Hrsg.) Vocabularies
 ## Metadatenschemata
 
 - Dublin Core Metadata Initiative: [http://dublincore.org/](http://dublincore.org/)
-- OASIS (Version 1.3): [https://oasis.ac.uk/](https://oasis.ac.uk/N)
+- OASIS (Version 1.3): [https://oasis.ac.uk/](https://oasis.ac.uk/)
 - ADeX -- Standard für den Austausch archäologischer Fachdaten: [https://www.landesarchaeologien.de/kommissionen/archaeologie-und-informationssysteme/projekte-8](https://www.landesarchaeologien.de/kommissionen/archaeologie-und-informationssysteme/projekte-8)
 - CARARE metadata schema: [http://pro.carare.eu/doku.php?id=support:metadata-schema](http://pro.carare.eu/doku.php?id=support:metadata-schema)
 - IANUS: [https://www.ianus-fdz.de/it-empfehlungen](https://www.ianus-fdz.de/it-empfehlungen)
