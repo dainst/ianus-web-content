@@ -54,7 +54,7 @@ U. Jensen -- A. Katsanidou -- W. Zenk-Möltgen, Metadaten und Standards, in: S. 
 A. Kinne, Tabellen und Tafeln zur Grabungstechnik (Dresden 2013)
 
 J. M. Lill, Kontrolliertes Vokabular. Wieso? Weshalb? Warum?, Fachgruppe Dokumentation im DMB: Terminologie -- das Schweizer Messer der Dokumentation (9. Mai 2012, Kunstmuseum Stuttgart)  
-[http://swop.bsz-bw.de/volltexte/2012/1002/pdf/Lill\_Textfassung\_VortragDM...](http://swop.bsz-bw.de/volltexte/2012/1002/pdf/Lill_Textfassung_VortragDMB2012.pdf)
+[https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file...](https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file/Lill_kontrolliertesVokabular_Nutzertreffen2012.pdf)
 
 J. Lindenthal, Normen und Standards für Thesauri (2015)  
 [https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf](https://www.ianus-fdz.de/downloads/files
