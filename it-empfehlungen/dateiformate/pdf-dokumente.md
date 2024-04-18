@@ -180,7 +180,7 @@ Metadaten lassen sich im kostenlosen Adobe Reader unter dem Menü „Datei > Eig
 
 Neben Adobe Acrobat gibt es weitere Editoren, mit denen sich Metadaten für ein PDF vergeben oder nachträglich ändern lassen. Als uneingeschränkte kostenlose Anwendungen sind für Windows BeCyPDFMetaEdit und für Mac PDFInfo erhältlich. Mit Einschränkungen gibt es für Windows den Hexonic PDF Metadata Editor, der kostenfrei eine Verarbeitung von maximal fünf PDF-Dateien gleichzeitig erlaubt. Das Metadata Extraction Tool kann mit Metadaten von vielen verschiedenen Formaten umgehen.
 
--   BeCyPDFMetaEdit: [www.becyhome.de/becypdfmetaedit/description\_ger.htm](http://www.becyhome.de/becypdfmetaedit/description_ger.htm)
+<!---   BeCyPDFMetaEdit: [www.becyhome.de/becypdfmetaedit/description\_ger.htm](http://www.becyhome.de/becypdfmetaedit/description_ger.htm) Seite existiert nicht mehr --> 
 -   PDFInfo: [www.macupdate.com/app/mac/23356/pdfinfo](https://www.macupdate.com/app/mac/23356/pdfinfo/ )
 -   Hexonic PDF Metadata Editor: [www.hexonic.de/index.php/hexonic-pdf-metadata-editor](http://www.hexonic.de/index.php/hexonic-pdf-metadata-editor)
 -   Metadata Extraction Tool: [http://meta-extractor.sourceforge.net/](http://meta-extractor.sourceforge.net/)
