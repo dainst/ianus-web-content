@@ -314,8 +314,8 @@ http://www.digitizationguidelines.gov/guidelines/FADGI_Still_Image-Tech_Guidelin
 D. Metzmacher, Metadaten in Fotos (2006)
 http://www.drweb.de/magazin/metadaten-in-fotos/
 
-Metadata Working Group -- Guidelines for Handling Image Metadata
-http://www.metadataworkinggroup.com/pdf/mwg_guidance.pdf
+<!-- Metadata Working Group -- Guidelines for Handling Image Metadata
+http://www.metadataworkinggroup.com/pdf/mwg_guidance.pdf  Seite existiert nicht mehr -->
 
 
 
@@ -323,8 +323,8 @@ http://www.metadataworkinggroup.com/pdf/mwg_guidance.pdf
 
 - TIFF: http://www.fileformat.info/format/tiff/egff.htm
 - DNG: http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf
-- GeoTiff: http://www.remotesensing.org/geotiff/spec/geotiffhome.html
-- PNG: http://www.w3.org/TR/PNG/
+<!--- GeoTiff: http://www.remotesensing.org/geotiff/spec/geotiffhome.html
+- PNG: http://www.w3.org/TR/PNG/ Seite existiert nicht mehr -->
 
 
 
