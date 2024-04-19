@@ -200,7 +200,7 @@ Ist der Code in einer separaten Datei gespeichert, benötigt man eine Skriptrefe
 <script src="Beispielskript.js"></script>
 ```
 
-Aufgrund des Umfangs wird nicht weiter auf JavaScript im Speziellen eingegangen. Weiterführende Informationen finden sich beispielsweise auf https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/Einf%C3%BChrung
+Aufgrund des Umfangs wird nicht weiter auf JavaScript im Speziellen eingegangen. Weiterführende Informationen finden sich beispielsweise auf https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/Einstieg
 
 ### Dynamische Websites
 
@@ -378,7 +378,7 @@ W3C (Hrsg.), HTML
 https://www.w3.org/html
 
 W3C
-https://www.w3c.org
+https://www.w3.org/
 
 W3schools
 http://www.w3schools.com/default.asp
