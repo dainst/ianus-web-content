@@ -261,7 +261,7 @@ Memoriav (Hrsg.), Digitale Archivierung von Film und Video: Grundlagen und Orien
 https://www.scart.be/?q=en/content/short-guide-choosing-digital-format-video-archiving-masters
 
 G. Pearson -- M. Gill, An Evaluation of Motion JPEG 2000 for Video Archiving, in: Proceedings IS&T Archiving 2005 vom 26. bis 29. April in Washington, D.C. (Washington, D.C. 2005) 237-243
-http://dancearchivalproject.wikispaces.asu.edu/file/view/MJ2_video_archiving.pdf
+https://lhncbc.nlm.nih.gov/LHC-publications/PDF/pub9302.pdf
 
 C. Poynton, Chroma subsampling notation (2008)
 http://www.poynton.com/PDFs/Chroma_subsampling_notation.pdf
@@ -270,7 +270,6 @@ D. Sauter, Video, In: H. Neuroth -- A. Oßwald -- R. Scheffel -- S. Strathmann -
 http://www.nestor.sub.uni-goettingen.de/handbuch
 
 K. van Malssen, Digital Video Preservation and Oral History, in: D. Boyd -- S. Cohen -- B. Rakerd -- D. Rehberger (Hrsg.) Oral History in the Digital Age (Washington, D.C. 2012)
-http://dancearchivalproject.wikispaces.asu.edu/file/view/MJ2_video_archiving.pdf
 
 FFV1 vs other formats for preservation, Diskussion in Google Gruppe
 https://groups.google.com/forum/#!topic/archivematica/HulV96gJ0go
@@ -285,7 +284,7 @@ Wikipedia MPEG-4 (englisch, 04. 2016)
 https://en.wikipedia.org/wiki/MPEG-4
 
 Filmausschnitte aus Big Buck Bunny von der Blender Foundation (2008)
-http://www.bigbuckbunny.org/
+https://peach.blender.org/
 
 ### Formatspezifikationen
 
