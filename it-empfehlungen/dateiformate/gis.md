@@ -109,11 +109,17 @@ Wheatley, D. and M. Gillings. Spatial Technology and Archaeology. The archaeolog
 Zimmermann, A., J. Richter, et al., Landschaftsarchäologie II - Überlegungen zu Prinzipien einer Landschaftsarchäologie. Bericht der Römisch-Germanischen Kommission 2004, 85: 37-95.
 
 Preserving Geospatial Data:
+
 http://www.dpconline.org/component/docman/doc_download/363-preserving-geospatial-data-by-guy-mcgarva-steve-morris-and-gred-greg-janee
+
 http://www.dpconline.org/component/docman/doc_download/363-preserving-geospatial-data-by-guy-mcgarva-steve-morris-and-gred-greg-janee
+
 http://www.gdi-de.org/
 
 Weiteres:
-http://web.stanford.edu/dept/SUL/library/prod//depts/gis/Archaeology.htm
+
+http://web.stanford.edu/dept/SUL/library/prod//depts/gis/Archaeology.html
+
 http://oadigital.net/software/gvsigoade
+
 http://www.fuerstensitze.de/1140_Publikationen.html
