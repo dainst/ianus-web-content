@@ -255,7 +255,7 @@ Dateiformate können mit speziellen Programmen überprüft werden. Auch wenn das
 - Zamzar: http://www.zamzar.com/url/
 - Adobe DNG Converter: https://helpx.adobe.com/de/camera-raw/using/adobe-dng-converter.html
 - JHOVE: http://jhove.sourceforge.net/
-- JHOVE2: https://bitbucket.org/jhove2/main/wiki/Home
+- JHOVE2: https://github.com/opf-labs/jhove2
 
 
 
@@ -263,7 +263,7 @@ Dateiformate können mit speziellen Programmen überprüft werden. Auch wenn das
 
 Technische Metadaten von Bildern werden in vielen Fällen schon bei der Erstellung einer Rastergrafik erzeugt und mit im Dateiformat abgespeichert (z.B. digitale Fotografie oder Scan). Weitere Metadaten können nachträglich hinzugefügt werden. Das kann man beispielsweise für einzelne Bilder in einem Grafikprogramm machen, welches die Funktionalität bietet, wie z.B. Photoshop oder Gimp (für Gimp muss allerdings noch ein Plugin installiert werden). Wenn es um eine sehr große Menge Fotos geht, empfiehlt sich ein eigenes Bildverwaltungsprogramm, wie z.B. Adobe Bridge, FotoWare oder XnView. Eine ausführliche Liste ist auf Wikipedia zu finden.
 
-Für die Archivierung von Bildern ist es empfehlenswert, wenn man die Metadaten extrahiert und in einer eigenen Textdatei oder XML-Struktur unterbringt. Metadaten aus Bildern können aus den Bildverwaltungsprogrammen, wie Adobe Bridge oder FotoWare, exportiert oder mit eigenen Programmen extrahiert werden. Beispielsweise kann man das Metadata Extraction Tool, das ExifTool oder eines der Tools, die auf forensicswiki.org gelistet sind, verwenden. Es gibt auch die Möglichkeit mit dem ExifViewer die Metadaten online zu extrahieren.
+Für die Archivierung von Bildern ist es empfehlenswert, wenn man die Metadaten extrahiert und in einer eigenen Textdatei oder XML-Struktur unterbringt. Metadaten aus Bildern können aus den Bildverwaltungsprogrammen, wie Adobe Bridge oder FotoWare, exportiert oder mit eigenen Programmen extrahiert werden. Beispielsweise kann man das Metadata Extraction Tool, das ExifTool <!-- oder eines der Tools, die auf forensicswiki.org gelistet sind, -->, verwenden. Es gibt auch die Möglichkeit mit dem ExifViewer die Metadaten online zu extrahieren.
 
 Werden Bilder und deren Metadaten in einer eigenen Datenbank verwaltet, so muss der Abschnitt über Datenbanken für die Langzeitarchivierung berücksichtigt werden.
 
@@ -271,7 +271,7 @@ Werden Bilder und deren Metadaten in einer eigenen Datenbank verwaltet, so muss 
 - Liste von Bildverwaltungsprogrammen auf Wikipedia: http://de.wikipedia.org/wiki/Bilderverwaltung#Software
 - Metadata Extraction Tool: http://meta-extractor.sourceforge.net/
 - ExifTool: http://www.sno.phy.queensu.ca/~phil/exiftool/
-- Tools zur Extraktion von Metadaten: http://www.forensicswiki.org/wiki/Document_Metadata_Extraction#Images
+<!--- Tools zur Extraktion von Metadaten: http://www.forensicswiki.org/wiki/Document_Metadata_Extraction#Images  Seite existiert nicht mehr-->
 - Metadaten online ansehen und extrahieren mit ExifViewer: http://www.exifviewer.org/
 
 
@@ -306,7 +306,7 @@ nestor, Nicht von Dauer: Kleiner Ratgeber für die Bewahrung digitaler Daten in 
 http://files.d-nb.de/nestor/ratgeber/ratg01_2_de.pdf
 
 DFG-Praxisregeln "Digitalisierung"
-http://www.dfg.de/formulare/12_151/12_151_de.pdf
+https://www.dfg.de/resource/blob/176108/898bf3574ad0ff3b1db525fa7d04c86c/12-151-v1216-de-data.pdf
 
 Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files
 http://www.digitizationguidelines.gov/guidelines/FADGI_Still_Image-Tech_Guidelines_2010-08-24.pdf
@@ -322,10 +322,9 @@ http://www.metadataworkinggroup.com/pdf/mwg_guidance.pdf  Seite existiert nicht 
 ### Formatspezifikationen
 
 - TIFF: http://www.fileformat.info/format/tiff/egff.htm
-- DNG: http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf
-<!--- GeoTiff: http://www.remotesensing.org/geotiff/spec/geotiffhome.html
-- PNG: http://www.w3.org/TR/PNG/ Seite existiert nicht mehr -->
-
+- DNG: https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf
+GeoTiff: <!---http://www.remotesensing.org/geotiff/spec/geotiffhome.html Seite existiert nicht mehr-->
+- PNG: http://www.w3.org/TR/PNG/
 
 
 ### Tools und Programme
@@ -337,8 +336,8 @@ http://www.metadataworkinggroup.com/pdf/mwg_guidance.pdf  Seite existiert nicht 
 - http://jhove.sourceforge.net/
 - JHOVE2: https://bitbucket.org/jhove2/main/wiki/Home
 - Bildverwaltung mit XnView: http://www.xnview.com/
-- Liste von Bildverwaltungsprogrammen auf Wikipedia: http://de.wikipedia.org/wiki/Bilderverwaltung\#Software
-- Tools zur Extraktion von Metadaten: http://www.forensicswiki.org/wiki/Document_Metadata_Extraction\#Images
+- Liste von Bildverwaltungsprogrammen auf Wikipedia: https://de.wikipedia.org/wiki/Bilderverwaltung
+<!-- - Tools zur Extraktion von Metadaten: http://www.forensicswiki.org/wiki/Document_Metadata_Extraction\#Images Seite existiert nicht mehr --> 
 - Metadata Extraction Tool: http://meta-extractor.sourceforge.net/
 - ExifTool: http://www.sno.phy.queensu.ca/~phil/exiftool/
 - Metadaten online ansehen und extrahieren mit Exifviewer: http://www.exifviewer.org/
