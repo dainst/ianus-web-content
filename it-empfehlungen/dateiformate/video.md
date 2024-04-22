@@ -234,10 +234,10 @@ P. Bubestinger -- H. Lewetz -- M. Jaks, Comparing video codecs and containers fo
 http://download.das-werkstatt.com/pb/mthk/info/video/comparison_video_codecs_containers.html
 
 B. Devlin, MXF -- The Material Exchange Format, in: EBU Technical Review (2002)
-http://www.ebu.ch/en/technical/trev/trev_291-devlin.pdf
+https://tech.ebu.ch/docs/techreview/trev_291-devlin.pdf
 
 B. Devlin, MXF. What is it, how does it work, and why hasn't it solved the world's problems yet? (2012)
-http://www.tvtechnology.com/research-&-standards/0114/mxf/262167
+https://www.panoramaaudiovisual.com/en/2012/07/20/mxf-que-es-como-funciona-y-por-que-no-ha-resuelto-los-problemas-del-mundo-todavia/
 
 DFG Handreichung Empfehlungen zu datentechnischen Standards und Tools bei der Erhebung von Sprachkorpora
 http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/standards_sprachkorpora.pdf
@@ -252,7 +252,7 @@ Koordinationsstelle für die dauerhafte Archivierung elektronischer Unterlagen (
 http://kost-ceco.ch/wiki/whelp/KaD/pages/Video.html
 
 C. Lacinak, A Primer on Codecs for Moving Image and Sound Archives. 10 Recommendations for Codec Selection and Management (2010)
-http://www.avpreserve.com/wp-content/uploads/2010/04/AVPS_Codec_Primer.pdf
+https://www.weareavp.com/wp-content/uploads/2017/07/AVPS_Codec_Primer.pdf
 
 E. Lorrain, A short guide to choosing a digital format for video archiving masters (2014)
 https://www.scart.be/?q=en/content/short-guide-choosing-digital-format-video-archiving-masters
