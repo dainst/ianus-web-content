@@ -20,9 +20,9 @@ Für die Nutzung von georeferenzierten Satellitenbildern besteht die Möglichkei
 
 BILD Aus: Eurimage Products and Services Guide
 
-Um Bilder zu laden steuert man auf der Homepage landsat.org unter dem link 'Search for imagery' die freien LandsatOrtho Daten an. Mit dem dort vorgegebenen Path-Row Finder kann man die entsprechenden Angaben zur interessierenden Region über ein interaktives Kartenmodul ermitteln. Wichtig ist es dazu den Popublocker (Internetexplorer: Extra/Popupblocker; Firefox: Extras-Einstellungen-Inhalt/Pop-up-Fenster blockieren) zu deaktivieren. Wichtig ist auch im Suchmodus die Kästchen WRS I und WRS II anzukreuzen und refresh map zu aktivieren. Nur so lassen sich dann mit dem Informations-Tool die entsprechenden Flugbahndaten ermitteln. Eine alternative Suchmöglichkeit bietet sich unter: http://landsat.usgs.gov/tools_wrs-2_shapefile.php. Dort sind ESRI-shp files herunter zu laden, die ebenfalls Path/Row Informationen enthalten.
+Um Bilder zu laden steuert man auf der Homepage landsat.org unter dem link 'Search for imagery' die freien LandsatOrtho Daten an. Mit dem dort vorgegebenen Path-Row Finder kann man die entsprechenden Angaben zur interessierenden Region über ein interaktives Kartenmodul ermitteln. Wichtig ist es dazu den Popublocker (Internetexplorer: Extra/Popupblocker; Firefox: Extras-Einstellungen-Inhalt/Pop-up-Fenster blockieren) zu deaktivieren. Wichtig ist auch im Suchmodus die Kästchen WRS I und WRS II anzukreuzen und refresh map zu aktivieren. Nur so lassen sich dann mit dem Informations-Tool die entsprechenden Flugbahndaten ermitteln. Eine alternative Suchmöglichkeit bietet sich unter: https://www.usgs.gov/landsat-missions/landsat-shapefiles-and-kml-files. Dort sind ESRI-shp files herunter zu laden, die ebenfalls Path/Row Informationen enthalten.
 
-Hat man die Angaben lassen sich bei http://www.landsat.org/ortho/ die entsprechenden Daten ansteuern und kopieren. Die gezippten Daten müssen dann entzippt werden und man erhält verschiedene Datensätze im Format Geo-Tiff. Diese sind georeferenziert im System WGS 1984.
+Hat man die Angaben lassen sich bei https://landsat.gsfc.nasa.gov/ die entsprechenden Daten ansteuern und kopieren. Die gezippten Daten müssen dann entzippt werden und man erhält verschiedene Datensätze im Format Geo-Tiff. Diese sind georeferenziert im System WGS 1984.
 
 Die Auflösung der Landsat Bilder ist unterschiedlich und liegt bei 30m bzw. 15m per Pixel.
 
@@ -50,13 +50,13 @@ Der russische Spionagesatellit KFA-1000 hat eine Auflösung von 1.5-3m. Die Bild
 
 Amerikanische Multispektral-Satelliten, die seit 1972 aktiv sind. Die LANDSATs 1-3 hatten einen Multispektral Sensor (MSS) mit einer Auflösung von 80m. Die LANDSATs 4 and 5 haben MSS und Themaic Mapper (TM) Sensoren mit einer Auflösung von 30 oder 15m.
 
-Übersicht bei http://landsat.org Kommerzielle Anbieter sind u.a. http://www.eurimage.com/index.html oder http://www.digitalglobe.com/ Preise (2007) ab 250 EURO http://www.eurimage.com/products/docs/eurimage_price_list.pdf
+Übersicht bei https://landsat.gsfc.nasa.gov/. <!-- Kommerzielle Anbieter sind u.a. http://www.eurimage.com/index.html oder http://www.digitalglobe.com/ Preise (2007) ab 250 EURO http://www.eurimage.com/products/docs/eurimage_price_list.pdf nicht mehr aktuell-->
 
 #### SPOT
 
 SPOT. Französische Satelliten mit Multispektral (XS) Sensoren und einer Auflösung von 20m bis 10m.
 
-Bilder und Preisangaben bei http://www.spotimage.fr/html/_.php
+<!-- Bilder und Preisangaben bei http://www.spotimage.fr/html/_.php Seite existiert nicht mehr--> 
 
 #### IKONOS 2
 
@@ -72,7 +72,7 @@ Bilder und Preisangaben bei http://www.digitalglobe.com/ oder http://www.eurimag
 
 ## Quellen
 
-- http://www.dainst.org/medien/de/Nasca-BMBF_Programm.pdf
+<!-- - http://www.dainst.org/medien/de/Nasca-BMBF_Programm.pdf Seite existiert nicht mehr -->
 - David L. Kennedy, Declassified satellite photographs and archaeology in the Middle East: case studies from Turkey. Antiquity 72, Nr. 277 1998, 553-561.
 - Graham Philip/Daniel Donoghue/Anthony Beck/N. Galiatsatos, CORONA satellite photography: an archaeological application from the Middle East. Antiquity 76, Nr. 291 2002, 109-118.
 - Jason Ur, CORONA satellite photography and ancient road networks: A Northern Mesopotamina case study. Antiquity 77, Nr. 295 2003, 102-105.
