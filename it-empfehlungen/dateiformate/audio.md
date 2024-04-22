@@ -170,10 +170,8 @@ IASA (Hrsg.), Guidelines on the Production and Preservation of Digital Audio Obj
 http://www.iasa-web.org/tc04/audio-preservation
 
 JISC (Hrsg.), Infokit: Digital file formats. Audio
-http://www.jiscdigitalmedia.ac.uk/infokit/file_formats/digitisation-audio
 
 JISC (Hrsg.), Infokit: Digital file formats. Digital audio formats and compression
-http://www.jiscdigitalmedia.ac.uk/infokit/file_formats/digital-audio-formats-and-compression
 
 Koordinationsstelle für die dauerhafte Archivierung elektronischer Unterlagen (Hrsg.) Katalog archivischer Dateiformate: Audiodaten
 http://kost-ceco.ch/wiki/whelp/KaD/pages/Audio.html
@@ -185,7 +183,7 @@ Memoriav (Hrsg.), Memoriav Empfehlungen Ton. Die Erhaltung von Tondokumenten (20
 http://memoriav.ch/wp-content/uploads/2015/02/Empfehlungen_Ton_de.pdf
 
 Y. Trivedi, HTG Explains: What Are the Differences Between All Those Audio Formats? (2011)
-http://www.howtogeek.com/howto/40465/htg-explains-what-are-the-differences-between-all-those-audio-formats/
+https://www.howtogeek.com/40465/htg-explains-what-are-the-differences-between-all-those-audio-formats/
 
 Wikipedia Mehrkanal-Tonsystem (deutsch 05. 2016)
 https://de.wikipedia.org/wiki/Mehrkanal-Tonsystem
@@ -193,11 +191,11 @@ https://de.wikipedia.org/wiki/Mehrkanal-Tonsystem
 ### Formatspezifikationen
 
 - FLAC: https://xiph.org/flac/format.html
-- WAVE: McGill University http://www-mmsp.ece.mcgill.ca/documents/audioformats/wave/wave.html
+- WAVE: McGill University https://www.mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html
 - WAVE mit LCPM: Library of Congress http://www.digitalpreservation.gov/formats/fdd/fdd000002.shtml
 - WAVE als Teil von RIFF: http://www.tactilemedia.com/info/MCI_Control_Info.html
 - BWF: http://tech.ebu.ch/docs/tech/tech3285.pdf
-- MBWF/RF64: http://tech.ebu.ch/docs/tech/tech3306-2009.pdf
+- MBWF/RF64: https://tech.ebu.ch/docs/tech/tech3306v1_1.pdf
 - Matroska: https://www.matroska.org/
 - Matroska: Library of Congress http://www.digitalpreservation.gov/formats/fdd/fdd000342.shtml
 - Matroska: IETF CELLAR Charter https://datatracker.ietf.org/doc/charter-ietf-cellar/
