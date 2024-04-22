@@ -309,12 +309,12 @@ Vorgaben für die Ebenenstruktur und deren Inhalte und Eigenschaften gibt es ebe
 
 Bei der Konvertierung in ein anderes Format, muss die Übernahme der Layerstruktur in dem neuen Format vorab getestet werden, da Ebenen in unterschiedlichen Formaten gar nicht (beispielsweise bei der Konvertierung in eine Rastergrafik im JPEG-Format) oder anders (beispielsweise bei der Übernahme in ein GIS) verarbeitet werden. Auch bei der Konvertierung von einem Vektorformat in ein anderes Vektorformat sollte die korrekte Übernahme der Ebenen überprüft werden.
 
-- Projekt Aegaron: http://dai.aegaron.ucla.edu/index.php/welcome/about#_Sections
+- Projekt Aegaron: https://aegaron.ucla.edu/
 - Bayern (S. 35): http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf
 - Berlin (S. 11, S. 16): http://www.stadtentwicklung.berlin.de/denkmal/landesdenkmalamt/download/neuerscheinungen/grabung_standard.pdf
 - Hamburg (S. 5- 6): http://www.amh.de/index.php/18259
 - Hessen (Anlage 2): http://hessen-archaeologie.de/Gesetzl_-Bestimmungen/Grabungsrichtlinien-2015/grabungsrichtlinien-2015.html
-- Niedersachsen (Anlage 7): http://www.denkmalpflege.niedersachsen.de/download/96821/Richtlinien_zur_Dokumentation_archaeologischer_Ausgrabungen_in_Niedersachsen_Juli_2014.pdf
+- Niedersachsen: https://denkmalpflege.niedersachsen.de/service/dokumentation/fachinformation-archaeologie-145712.html
 - Österreich: (S. 22): http://www.bda.at/downloads/1990/Richtlinien
 
 ### Raumbezug
@@ -565,8 +565,8 @@ Weiterhin kann spezielle sog. ETL-Software (ETL: Extrahieren, Transformieren und
 
 ## Quellen
 
-AEGARON (Hrsg.) Ancient Egyptian Architecture Online. About (03. 2017)
-http://dai.aegaron.ucla.edu/index.php/welcome/about
+AEGARON (Hrsg.) Ancient Egyptian Architecture Online.
+https://aegaron.ucla.edu/
 
 Archaeology Data Service, Vector Images: A Guide to Good Practice
 http://guides.archaeologydataservice.ac.uk/g2gp/VectorImg_Toc
@@ -575,16 +575,14 @@ A. Ball, Preserving Computer-Aided Design (CAD), DPC Technology Watch Report 13-
 http://dx.doi.org/10.7207/twr13-02
 
 D. Bibby -- R. Göldner, CAD-Daten, in: AG Archivierung (Hrsg.), Ratgeber zur Archivierung digitaler Daten, Version 1.0 (2011)
-http://www.landesarchaeologen.de/fileadmin/Dokumente/Dokumente_Kommissionen/Dokumente_Archaeologie-Informationssysteme/Dokumente_AIS_Archivierung/Ratgeber_Archivierung_V1.0.pdf
+https://www.landesarchaeologien.de/fileadmin/mediamanager/004-Kommissionen/Archaeologie-und-Informationssysteme/Archivierung/Ratgeber_Archivierung_V1.0.pdf
 
 CADexchange (Hrsg.), Empfehlung CAD-Datenformate (2011)
-http://www.cadexchange.ch/de/index.php?section=egov&cmd=detail&id=20
 
 A. Cocciolo, Digitally Archiving Architectural Models and Exhibition Designs: The Case of an Art Museum,  Practical Technology for Archives 4, 2015
 https://practicaltechnologyforarchives.org/issue4_cocciolo/
 
 M. Coyne -- D. Duce -- B. Hopgood -- G. Mallen --  M. Stapleton, The Significant Properties of Vector Images (2007)
-www.jisc.ac.uk/media/documents/programmes/preservation/vector_images.pdf
 
 D. Duce -- B. Hopgood -- M. Coyne -- M. Stapleton -- G. Mallen, SVG and the Preservation of Vector Images (2008)
 http://www.svgopen.org/2008/papers/40-SVG_and_the_Preservation_of_Vector_Images/
@@ -630,7 +628,7 @@ https://de.wikipedia.org/wiki/Scalable_Vector_Graphics
 - DXF: http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=24240325
 - DXF 2010: http://images.autodesk.com/adsk/files/acad_dxf1.pdf
 - DWG: Open Design Alliance https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf
-- EPS: http://partners.adobe.com/public/developer/en/ps/5002.EPSF_Spec.pdf
+- EPS: https://www.adobe.com/at/creativecloud/file-types/image/vector/eps-file.html
 
 ### Tools und Programme
 
@@ -642,7 +640,7 @@ https://de.wikipedia.org/wiki/Scalable_Vector_Graphics
 - QCAD: http://www.qcad.org/
 - Teigha Viewer: https://www.opendesign.com/guestfiles
 - DWG TrueView: http://www.autodesk.com/products/dwg/viewers
-- Projekt Aegaron: http://dai.aegaron.ucla.edu/index.php/welcome/about#_Sections
+- Projekt Aegaron: https://aegaron.ucla.edu/
 - Bayern (S. 35): http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf
 - Berlin (S. 11, S. 16): https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf
 - Hamburg (S. 5- 6): http://www.amh.de/index.php/18259
