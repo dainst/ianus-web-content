@@ -220,8 +220,8 @@ http://data.research.cornell.edu/content/tabular-data
 
 ### Formatspezifikationen
 
-- ODT: https://www.oasis-open.org/standards\#opendocumentv1.2
-- XSLX: ECMA-376 http://www.ecma-international.org/publications/standards/Ecma-376.htm
+- ODT: https://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.html
+- XSLX: ECMA-376 https://ecma-international.org/publications-and-standards/standards/ecma-376/
 - CSV: RFC 4180 https://tools.ietf.org/html/rfc4180
 - TSV: IANA: http://www.iana.org/assignments/media-types/text/tab-separated-values
 - XML: OASIS (Hrsg.) Standards/Specs: Table Models https://www.oasis-open.org/specs/tablemodels.php
