@@ -334,7 +334,7 @@ GeoTiff: <!---http://www.remotesensing.org/geotiff/spec/geotiffhome.html Seite e
 - Zamzar: http://www.zamzar.com/url/
 - JHOVE: http://sourceforge.net/projects/jhove/
 - http://jhove.sourceforge.net/
-- JHOVE2: https://bitbucket.org/jhove2/main/wiki/Home
+- JHOVE2: https://github.com/opf-labs/jhove2
 - Bildverwaltung mit XnView: http://www.xnview.com/
 - Liste von Bildverwaltungsprogrammen auf Wikipedia: https://de.wikipedia.org/wiki/Bilderverwaltung
 <!-- - Tools zur Extraktion von Metadaten: http://www.forensicswiki.org/wiki/Document_Metadata_Extraction\#Images Seite existiert nicht mehr --> 
