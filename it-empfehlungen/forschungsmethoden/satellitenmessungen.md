@@ -36,7 +36,8 @@ Für detailliertere Satellitenbilder mit hoher Auflösung stehen momentan nur ko
 
 Satellitenaufnahmen aus den 1960er und frühen 1970er Jahren der amerikanischen Spionagesatelliten CORONA, LANYARD und ARGON. CORONA Bilder der Missionen KH4 und 6 haben eine Auflösung von 2-3m. Es empfiehlt sich die Angaben in den Missionsdokumentationen zu lesen. Und Bilder in 7 Micron scannen zu lassen. Nicht georeferenziert!
 
-Allgemeine Angaben finden sich unter: http://edc.usgs.gov/products/satellite/declass1.html#description Bildauswahl unter: http://edcsns17.cr.usgs.gov/EarthExplorer/ dort finden sich die CORONA Bilder unter der Angabe "declassified images". Preis (2007): 30$ pro Filmstreifen (die DVD ist jedoch recht teuer) http://edcsns17.cr.usgs.gov/helpdocs/prices.html#CORONA
+<!-- Allgemeine Angaben finden sich unter: http://edc.usgs.gov/products/satellite/declass1.html#description Seite existiert nicht mehr
+Bildauswahl unter: http://edcsns17.cr.usgs.gov/EarthExplorer/ dort finden sich die CORONA Bilder unter der Angabe "declassified images". Preis (2007): 30$ pro Filmstreifen (die DVD ist jedoch recht teuer) http://edcsns17.cr.usgs.gov/helpdocs/prices.html#CORONA Seiten existieren nicht mehr --> 
 
 #### KFA-1000
 
