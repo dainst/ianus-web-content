@@ -312,10 +312,10 @@ Bei der Konvertierung in ein anderes Format, muss die Übernahme der Layerstrukt
 - Projekt Aegaron: https://aegaron.ucla.edu/
 - Bayern (S. 35): http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf
 - Berlin (S. 11, S. 16): http://www.stadtentwicklung.berlin.de/denkmal/landesdenkmalamt/download/neuerscheinungen/grabung_standard.pdf
-- Hamburg (S. 5- 6): http://www.amh.de/index.php/18259
+<!-- - Hamburg (S. 5- 6): http://www.amh.de/index.php/18259 Seite existiert nicht mehr -->
 - Hessen (Anlage 2): http://hessen-archaeologie.de/Gesetzl_-Bestimmungen/Grabungsrichtlinien-2015/grabungsrichtlinien-2015.html
 - Niedersachsen: https://denkmalpflege.niedersachsen.de/service/dokumentation/fachinformation-archaeologie-145712.html
-- Österreich: (S. 22): http://www.bda.at/downloads/1990/Richtlinien
+<!-- - Österreich: (S. 22): http://www.bda.at/downloads/1990/Richtlinien Seite existiert nicht mehr -->
 
 ### Raumbezug
 
@@ -558,8 +558,8 @@ Weiterhin kann spezielle sog. ETL-Software (ETL: Extrahieren, Transformieren und
 - ESRI Mapping Specification for DWG: http://webhelp.esri.com/arcgisdesktop/9.3/pdf/Mapping_Specification_for_DWG.pdf
 - ArcGIS for AutoCAD: http://www.esri.com/software/arcgis/arcgis-for-autocad
 - FME: http://www.safe.com/
-- GeoKettle: http://www.spatialytics.org/projects/geokettle/
-- HALE: http://www.esdi-community.eu/projects/hale
+- GeoKettle: https://sourceforge.net/projects/geokettle/
+- HALE: https://wetransform.to/halestudio/
 
 
 
@@ -643,10 +643,10 @@ https://de.wikipedia.org/wiki/Scalable_Vector_Graphics
 - Projekt Aegaron: https://aegaron.ucla.edu/
 - Bayern (S. 35): http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf
 - Berlin (S. 11, S. 16): https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf
-- Hamburg (S. 5- 6): http://www.amh.de/index.php/18259
+<!-- - Hamburg (S. 5- 6): http://www.amh.de/index.php/18259 Seite existiert nicht mehr-->
 - Hessen (Anlage 2): https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf
 - Niedersachsen (Anlage 7): https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf
-- Österreich: (S. 22): http://www.bda.at/downloads/1990/Richtlinien
+<!-- - Österreich: (S. 22): http://www.bda.at/downloads/1990/Richtlinien Seite existiert nicht mehr -->
 - Potrace: http://potrace.sourceforge.net/
 - Vector Magic: http://vectormagic.com/home
 - WinTopo: http://www.softsoft.net/wintopo/index.htm
@@ -654,5 +654,5 @@ https://de.wikipedia.org/wiki/Scalable_Vector_Graphics
 - ESRI Mapping Specification for DWG: http://webhelp.esri.com/arcgisdesktop/9.3/pdf/Mapping_Specification_for_DWG.pdf
 - ArcGIS for AutoCAD: http://www.esri.com/software/arcgis/arcgis-for-autocad
 - FME: http://www.safe.com/
-- GeoKettle: http://www.spatialytics.org/projects/geokettle/
-- HALE: http://www.esdi-community.eu/projects/hale
+- GeoKettle: https://sourceforge.net/projects/geokettle/
+- HALE: https://wetransform.to/halestudio/
