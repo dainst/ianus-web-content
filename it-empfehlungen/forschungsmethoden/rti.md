@@ -186,14 +186,14 @@ Für eine Präsentation der Daten auf Webseiten kann der *WebRTIViewer* empfohle
 Cultural Heritage Imaging:  
 http://culturalheritageimaging.org/
 
-Hewlett-Packard-Laboratories, PTM:  
+Hewlett-Packard-Laboratories, PTM 
 <!-- http://www.hpl.hp.com/research/ptm/ Seite existiert nicht mehr -->  
 
 S. Duffy -- P. Bryan -- G. Earl -- G. Beale -- H. Pagi -- E. Kotouala, Multi-light Imaging for Heritage Applications (2013)  
 https://www.historicengland.org.uk/images-books/publications/multi-light-imaging-heritage-applications/
 
 T. Malzbender -- D. Gelb -- H. Wolters, Polynomial Texture Maps, in: Proceedings of ACM Siggraph 2001 (2001)  
-DOI:https://doi.org/10.1145/383259.383320
+DOI: https://doi.org/10.1145/383259.383320
 
 ### Formatspezifikationen
 
