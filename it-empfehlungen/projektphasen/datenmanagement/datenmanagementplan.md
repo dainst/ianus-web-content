@@ -18,9 +18,9 @@ Die einzelnen in einem Datenmanagementplan zu berücksichtigenden Aspekte werden
 
 Die Aufgaben können grob in drei Phasen gegliedert werden:
 
-- [Planungsphase](https://ianus-fdz.de/datenmanagementplan#dmp-planung)
-- [Durchführungsphase](https://ianus-fdz.de/datenmanagementplan#dmp-durchfuehrung)
-- [Abschlussphase](https://ianus-fdz.de/datenmanagementplan#dmp-abschluss)
+- Planungsphase
+- Durchführungsphase
+- Abschlussphase
 
 ## Planungsphase
 
