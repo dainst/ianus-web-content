@@ -164,7 +164,7 @@ Da PDF/A-Dateien grundsätzlich nicht gegen Bearbeitung geschützt werden könne
 
 Viele Firmen haben sich mittlerweile auf die Archivierung von PDF-Dateien spezialisiert und bieten verschiedene Tools zur Überprüfung oder zur Reparatur von nicht validen Dateien an. Adobe Acrobat Professional bietet mit dem Preflight-Werkzeug (im Menü „Erweitert > Prefligt > Profile > PDF/A-Standard prüfen“) ein Tool zur Validierung an.  Es ist in der nebenstehenden Abbildung dargestellt.Auch mit kostenfreier Software lassen sich Validierungen durchführen. Mit [PDF/A Live! 7.1.6](https://www.intarsys.de/dokumentendownload/pdf-a-live/) kann man ohne Lizenzschlüssel bis zu 50 Dokumente pro Tag überprüfen und bis zu 15 Dokumente konvertieren. Online besteht die Möglichkeit über den [Free PDF/A Validator](http://www.validatepdfa.com/online.htm).
 
--   Isartor Test Suite: [www.pdfa.org/2011/08/download-isartor-test-suite](http://www.pdfa.org/2011/08/download-isartor-test-suite/)
+-   Isartor Test Suite: [https://pdfa.org/resource/isartor-test-suite/](https://pdfa.org/resource/isartor-test-suite/)
 -   PDF/A Live! 7.1.6: [https://www.intarsys.de/dokumentendownload/pdf-a-live/](https://www.intarsys.de/dokumentendownload/pdf-a-live/)
 -   Free PDF/A Validator: [www.validatepdfa.com/online.htm](http://www.validatepdfa.com/online.htm)
 
