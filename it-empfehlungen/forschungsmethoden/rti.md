@@ -169,7 +169,7 @@ Für die Aufnahme und Erstellung von RTI-Daten gibt es zwei frei verfügbare Pro
 
 - RTIBuilder: http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/index.html
 - Weiteres Material von CHI: http://culturalheritageimaging.org/What_We_Offer/Downloads/
-- PTM Fitter Program: http://www.hpl.hp.com/research/ptm/downloads/download.html
+- PTM Fitter Program <!-- http://www.hpl.hp.com/research/ptm/downloads/download.html Seite existiert nicht mehr -->
 
 ### Ansicht von RTI-Daten
 
@@ -177,7 +177,7 @@ RTI-Daten können nur mit speziellen Viewer-Programmen betrachtet werden. Von de
 
 Für eine Präsentation der Daten auf Webseiten kann der *WebRTIViewer* empfohlen werden, der an dem Visual Computing Laboratory von CNR-ISTI in Pisa entwickelt wurde.
 
-- PTM Viewer Application: http://www.hpl.hp.com/research/ptm/downloads/download.html
+- PTM Viewer Application <!-- http://www.hpl.hp.com/research/ptm/downloads/download.html Seite existiert nicht mehr --> 
 - RTIViewer: http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html
 - WebRTIViewer: http://vcg.isti.cnr.it/rti/webviewer.php
 
@@ -187,24 +187,24 @@ Cultural Heritage Imaging:
 http://culturalheritageimaging.org/
 
 Hewlett-Packard-Laboratories, PTM:  
-http://www.hpl.hp.com/research/ptm/
+<!-- http://www.hpl.hp.com/research/ptm/ Seite existiert nicht mehr -->  
 
 S. Duffy -- P. Bryan -- G. Earl -- G. Beale -- H. Pagi -- E. Kotouala, Multi-light Imaging for Heritage Applications (2013)  
 https://www.historicengland.org.uk/images-books/publications/multi-light-imaging-heritage-applications/
 
 T. Malzbender -- D. Gelb -- H. Wolters, Polynomial Texture Maps, in: Proceedings of ACM Siggraph 2001 (2001)  
-http://www.hpl.hp.com/research/ptm/papers/ptm.pdf
+DOI:https://doi.org/10.1145/383259.383320
 
 ### Formatspezifikationen
 
-- PTM: http://www.hpl.hp.com/research/ptm/downloads/PtmFormat12.pdf
+- PTM <!-- http://www.hpl.hp.com/research/ptm/downloads/PtmFormat12.pdf Seite existiert nicht mehr -->
 - RTI: http://forums.culturalheritageimaging.org/index.php?app=core&module=attach&section=attach&attach_id=81
 
 ### Tools und Programme
 
 - RTIBuilder: http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/index.html
 - Weiteres Material von CHI: http://culturalheritageimaging.org/What_We_Offer/Downloads/
-- PTM Fitter Program: http://www.hpl.hp.com/research/ptm/downloads/download.html
-- PTM Viewer Application: http://www.hpl.hp.com/research/ptm/downloads/download.html
+- PTM Fitter Program <!-- http://www.hpl.hp.com/research/ptm/downloads/download.html Seite existiert nicht mehr -->
+- PTM Viewer Application <!-- http://www.hpl.hp.com/research/ptm/downloads/download.html Seite existiert nicht mehr -->
 - RTIViewer: http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html
 - WebRTIViewer: http://vcg.isti.cnr.it/rti/webviewer.php
