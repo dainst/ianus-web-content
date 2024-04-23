@@ -14,4 +14,4 @@ Da die Kapitel der einzelnen Forschungsmethoden von verschiedenen Spezialisten v
 
 Die vorhandenen Inhalte decken nur einen kleinen Teil der angewandten Forschungsmethoden in den Archäologien und Altertumswissenschaften ab. Weitere Inhalte sind geplant, wobei dafür auch Autoren gesucht werden. Die folgende Auflistung soll einen Eindruck der möglichen Inhalte vermitteln, wobei weitere Vorschläge und Ergänzungen willkommen sind.
 
-Bis wir Ihnen ausführlichere Hinweise zur Verfügung stellen können, können Sie sich auf den [Seiten des Archaeology Data Service](http://guides.archaeologydataservice.ac.uk/g2gp) informieren, wo insbesondere folgende Inhalte zu Forschungsmethoden zur Verfügung stehen.
+Bis wir Ihnen ausführlichere Hinweise zur Verfügung stellen können, können Sie sich auf den [Seiten des Archaeology Data Service](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/) informieren, wo insbesondere folgende Inhalte zu Forschungsmethoden zur Verfügung stehen.
