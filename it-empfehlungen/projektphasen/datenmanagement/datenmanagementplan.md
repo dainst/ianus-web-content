@@ -32,7 +32,7 @@ In der Planungsphase eines Projektes ist es im Hinblick auf den Datenmanagementp
 - Was sind, zusammengefasst, die Ziele und das Vorhaben?
 - Wer sind die Projektträger und Finanzgeber?
 
-Dazu kann auch die [Liste für Projektbezogene Metadaten](/it-empfehlungen/projektphasen/dokumentation/metadaten-in-der-anwendung) konsultiert werden.
+Dazu kann auch die [Liste für Projektbezogene Metadaten](https://ianus-fdz.de/it-empfehlungen/projektphasen/dokumentation/metadaten-in-der-anwendung) konsultiert werden.
 
 ### Verantwortlichkeiten
 
@@ -120,7 +120,7 @@ Eine zeitnah nach Plan durchgeführte Erstellung, Verarbeitung, Analyse und Doku
 - Gibt es verbreitete Standards, die bei der Wahl des Formats zu beachten sind?
 - Können offene Formate verwendet werden oder müssen proprietäre verwendet werden und hat das Implikationen für die verwendete Hard- und Software?
 
-Weitere Informationen sind in den Kapiteln [Dateiformate](/it-empfehlungen/dateiformate/index) und [Forschungsmethoden](/it-empfehlungen/forschungsmethoden/index) zu finden.
+Weitere Informationen sind in den Kapiteln [Dateiformate](https://ianus-fdz.de/it-empfehlungen/dateiformate/index) und [Forschungsmethoden](https://ianus-fdz.de/it-empfehlungen/forschungsmethoden/index) zu finden.
 
 ### Nachnutzung vorhandener Daten
 
@@ -146,7 +146,7 @@ Weitere Informationen sind in den Kapiteln [Dateiformate](/it-empfehlungen/datei
 - Ergeben sich daraus besondere Anforderungen an die technische Infrastruktur? (z.B. mehr Speicherplatz)
 - Fallen verschiedene Bearbeitungsstufen mit verschiedenen Versionen an, die gegebenfalls ein Versionierungssystem erfordern?
 
-Weitere Informationen zur Versionierung sind in dem Abschnitt [Versionskontrolle](/it-empfehlungen/projektphasen/dateiverwaltung/versionskontrolle) zu finden.
+Weitere Informationen zur Versionierung sind in dem Abschnitt [Versionskontrolle](https://ianus-fdz.de/it-empfehlungen/projektphasen/dateiverwaltung/versionskontrolle) zu finden.
 
 ### Dateispeicherung und -sicherung
 
@@ -157,7 +157,7 @@ Weitere Informationen zur Versionierung sind in dem Abschnitt [Versionskontrolle
 - Gibt es ein Disaster Management?
 - Wurden die Maßnahmen zur Dateiwiederherstellung geprobt?
 
-Weitere Informationen sind im Abschnitt [Dateispeicherung und -sicherung](/it-empfehlungen/projektphasen/dateispeicherung/index) zu finden.
+Weitere Informationen sind im Abschnitt [Dateispeicherung und -sicherung](https://ianus-fdz.de/it-empfehlungen/projektphasen/dateispeicherung/index) zu finden.
 
 ### Dateiverwaltung
 
@@ -170,7 +170,7 @@ Weitere Informationen sind im Abschnitt [Dateispeicherung und -sicherung](/it-em
 - Ist der Einsatz eines Versionierungssystems notwendig?
 - Werden Daten, die für eine künftige Nachnutzung geeignet sind oder archiviert werden sollen, gesondert verwaltet?
 
-Weitere Informationen sind im Abschnitt [Dateiverwaltung](/it-empfehlungen/projektphasen/dateiverwaltung/index) zu finden.
+Weitere Informationen sind im Abschnitt [Dateiverwaltung](https://ianus-fdz.de/it-empfehlungen/projektphasen/dateiverwaltung/index) zu finden.
 
 ### Dokumentation
 
@@ -184,7 +184,7 @@ Weitere Informationen sind im Abschnitt [Dateiverwaltung](/it-empfehlungen/proje
 - Werden Ausnahmen dokumentiert?
 - Gibt es Werkzeuge, die den Dokumentationsprozess unterstützen?
 
-Weitere Informationen sind im Abschnitt [Dokumentation](/it-empfehlungen/projektphasen/dokumentation/index) zu finden.
+Weitere Informationen sind im Abschnitt [Dokumentation](https://ianus-fdz.de/it-empfehlungen/projektphasen/dokumentation/index) zu finden.
 
 ### Qualitätssicherung
 
