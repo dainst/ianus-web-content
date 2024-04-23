@@ -118,8 +118,10 @@ http://www.gdi-de.org/
 
 Weiteres:
 
-http://web.stanford.edu/dept/SUL/library/prod//depts/gis/Archaeology.html
-
-http://oadigital.net/software/gvsigoade
-
 http://www.fuerstensitze.de/1140_Publikationen.html
+
+<!-- http://web.stanford.edu/dept/SUL/library/prod//depts/gis/Archaeology.html Seite existiert nicht mehr -->
+
+<!-- http://oadigital.net/software/gvsigoade Seite existiert nicht mehr --> 
+
+
