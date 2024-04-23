@@ -198,7 +198,7 @@ DOI: https://doi.org/10.1145/383259.383320
 ### Formatspezifikationen
 
 - PTM <!-- http://www.hpl.hp.com/research/ptm/downloads/PtmFormat12.pdf Seite existiert nicht mehr -->
-- RTI: http://forums.culturalheritageimaging.org/index.php?app=core&module=attach&section=attach&attach_id=81
+- RTI <!-- http://forums.culturalheritageimaging.org/index.php?app=core&module=attach&section=attach&attach_id=81 Seite existiert nicht mehr -->
 
 ### Tools und Programme
 
