@@ -349,6 +349,7 @@ Archaeology Data Service –- Digital Antiquity, Documents and Digital Texts: A 
 https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/basic-components/documents-and-digital-texts/creating-texts-and-documents/general-considerations/
 
 Archaeology Data Service –- Digital Antiquity, Documents and Digital Texts: A Guide to Good Practice. Section 3. Archiving Texts and Documents
+https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/basic-components/documents-and-digital-texts/introduction-to-documents-and-texts/deciding-what-to-archive/
 
 
 DOI (Hrsg.), DOI Handbook
