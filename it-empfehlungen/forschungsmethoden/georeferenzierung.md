@@ -16,4 +16,4 @@ Die GeoReferenzierung von Topographischen Karten ist in der Regel einfach, da Ko
 
 ## Quellen
 
-- Alle Handbücher der GIS Programme, AutoCad Map, PhoToPlan etc. http://www.giub.uni-bonn.de/gistutor/
+- Alle Handbücher der GIS Programme, AutoCad Map, PhoToPlan etc. auf der Seite des Geographischen Instituts der Uni Bonn. <!-- http://www.giub.uni-bonn.de/gistutor/ Seite existiert nicht mehr -->
