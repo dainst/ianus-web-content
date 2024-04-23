@@ -272,7 +272,7 @@ Eine weitere Möglichkeit bietet die Konvertierung einer Webseite durch einen On
 
 Spezielle (kommerzielle) Programme wie die Literaturverwaltungssoftware Citavi beherrschen ebenso das Speichern von Webseiten unter Beibehaltung des Layouts als PDF. Auch bietet etwa Adobe Acrobat Pro DC eine Option zur Konvertierung von Webseiten in ein PDF-Dokument.
 
-- Mozilla Firefox "Firefox Web2PDF Converter": https://addons.mozilla.org/en-US/firefox/addon/web2pdf-converter
+<!-- - Mozilla Firefox "Firefox Web2PDF Converter": https://addons.mozilla.org/en-US/firefox/addon/web2pdf-converter Seite existiert nicht mehr --> 
 - Mozilla Firefox "Save as PDF": https://addons.mozilla.org/de/firefox/addon/save-as-pdf
 - Mozilla Firefox "FireShot2: https://addons.mozilla.org/de/firefox/addon/fireshot
 - Google Chrome "Save as PDF": https://chrome.google.com/webstore/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc
@@ -299,7 +299,7 @@ MHTML-Dateien können mit Webbrowsern erstellt und geöffnet werden. Auch mit Te
 - Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb
 - Google Chrome "Save As MHTML": https://chrome.google.com/webstore/detail/save-as-mhtml/eomfifclcdpkaghkehajpolkdnkmegfa
 - Google Chrome "In Google Drive speichern": https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne
-- Mozilla Firefox "Mozilla Archive Format, with MHT and Faithful Save": https://addons.mozilla.org/de/firefox/addon/mozilla-archive-format
+- Mozilla Firefox "Mozilla Archive Format, with MHT and Faithful Save": https://addons.thunderbird.net/en-us/seamonkey/addon/mozilla-archive-format/
 
 ### Archivierung als MAFF-Datei
 
@@ -346,10 +346,10 @@ N. Brügger, Archiving Websites. General Considerations and Strategies (Aarhus 2
 http://cfi.au.dk/fileadmin/www.cfi.au.dk/publikationer/archiving_underside/archiving.pdf
 
 Archaeology Data Service –- Digital Antiquity, Documents and Digital Texts: A Guide to Good Practice. Section 2. Creating Texts and Documents
-http://guides.archaeologydataservice.ac.uk/g2gp/TextDocs_2
+https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/basic-components/documents-and-digital-texts/creating-texts-and-documents/general-considerations/
 
 Archaeology Data Service –- Digital Antiquity, Documents and Digital Texts: A Guide to Good Practice. Section 3. Archiving Texts and Documents
-http://guides.archaeologydataservice.ac.uk/g2gp/TextDocs_3
+
 
 DOI (Hrsg.), DOI Handbook
 https://www.doi.org/hb.html
@@ -388,7 +388,7 @@ Formatspezifikationen
 - XHTML: https://www.w3.org/TR/html5
 - CSS: https://www.w3.org/TR/2011/REC-CSS2-20110607
 - MHTML: RFC 2557 https://tools.ietf.org/html/rfc2557
-- WARC 0.9: http://archive-access.sourceforge.net/warc/warc_file_format-0.9.html
+<!-- - WARC 0.9: http://archive-access.sourceforge.net/warc/warc_file_format-0.9.html Seite existiert nicht mehr --> 
 - WARC: ISO 28500 http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=44717
 - WARC: Library of Congress http://www.digitalpreservation.gov/formats/fdd/fdd000236.shtml
 - MAFF: http://maf.mozdev.org/maff-specification.html
@@ -412,7 +412,7 @@ Tools und Programme
 - Aptana Studio: http://www.aptana.com
 - Seamonkey: http://www.seamonkey-project.org
 - BlueGriffon: http://www.bluegriffon.org
-- Mozilla Firefox "Firefox Web2PDF Converter": https://addons.mozilla.org/en-US/firefox/addon/web2pdf-converter
+<!-- - Mozilla Firefox "Firefox Web2PDF Converter": https://addons.mozilla.org/en-US/firefox/addon/web2pdf-converter Seite existiert nicht mehr --> 
 - Mozilla Firefox "Save as PDF": https://addons.mozilla.org/de/firefox/addon/save-as-pdf
 - Mozilla Firefox "FireShot": https://addons.mozilla.org/de/firefox/addon/fireshot
 - Google Chrome "Save as PDF": https://chrome.google.com/webstore/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc
