@@ -199,7 +199,6 @@ H.-J. Hübner, PDF/A - Update und Dienstleistungen für die Langzeitarchivierung
 [http://files.dnb.de/nestor/veranstaltungen/Praktikertag2013/2013-06-pdfa...](http://files.dnb.de/nestor/veranstaltungen/Praktikertag2013/2013-06-pdfa-huebner.pdf)
 
 K. Krieg, PDF/A und Metadaten: XML, RDF und XMP: Was, wie und woher? Präsentation vom 18.11.2008 beim Nestor-Seminar in Koblenz  
-[http://nestor.sub.uni-goettingen.de/seminar\_bundesarchiv/docs/04-Metadat...](http://nestor.sub.uni-goettingen.de/seminar_bundesarchiv/docs/04-Metadaten-KK.pdf)
 
 A. Mantke, OpenOffice.org. Export in das PDF\-Dateiformat (2010)  
 [www.openoffice.org/de/doc/howto\_2\_0/office/exportpdfformat.pdf](http://www.openoffice.org/de/doc/howto_2_0/office/exportpdfformat.pdf)
@@ -220,7 +219,7 @@ Adobe Acrobat DC. Adobe PDF
 [https://acrobat.adobe.com/de/de/products/about-adobe-pdf.html](https://acrobat.adobe.com/de/de/products/about-adobe-pdf.html)
 
 Open Format. Archiving of 3D Documents  
-[www.newformat.se/openformat/eng/odf-and-pdf-details/3d-archiving-pdfa-pd...](http://www.newformat.se/openformat/eng/odf-and-pdf-details/3d-archiving-pdfa-pdfe-english-popup.html)
+[www.newformat.se](http://www.newformat.se)
 
 PDF/A Flyer (2014)  
 [www.pdfa.org/wp-content/uploads/2014/01/Flyer-PDFA-DEU.pdf](http://www.pdfa.org/wp-content/uploads/2014/01/Flyer-PDFA-DEU.pdf)
@@ -234,8 +233,8 @@ PDFlib: Die PDF/A-Archivierungsstandards
 ### Formatspezifikationen
 
 -   PDF/A-1 (ISO:2005): [http://www.iso.org/iso/iso\_catalogue/catalogue\_tc/catalogue\_detail.htm?c...](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=38920)
--   PDF/A-2 ISO 19005-2:2011): [http://www.iso.org/iso/iso\_catalogue/catalogue\_tc/catalogue\_detail.htm?c...](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50655)
--   PDF/A-3 (ISO 19005-3: [http://www.iso.org/iso/home/store/catalogue\_ics/catalogue\_detail\_ics.htm...](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=57229)
+-   PDF/A-2 (ISO 19005-2:2011): [http://www.iso.org/iso/iso\_catalogue/catalogue\_tc/catalogue\_detail.htm?c...](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50655)
+-   PDF/A-3 (ISO 19005-3): [http://www.iso.org/iso/home/store/catalogue\_ics/catalogue\_detail\_ics.htm...](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=57229)
 
 ### Tools und Programme
 
