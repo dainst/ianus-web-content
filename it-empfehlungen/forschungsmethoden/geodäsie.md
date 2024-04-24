@@ -42,7 +42,7 @@ Momentan verfügen die meisten europäischen Staaten und auch die meisten Bundes
 
 ### EPSG
 
-International werden Bezugssysteme nach dem System der EPSG (European Petroleum Survey Group) angegeben. Die EPSG stellt die Parameter für die meisten Bezugssysteme bereit. Diese sind als Download auf den Webseiten der EPSG (www.epsg.org ) zu beziehen.
+International werden Bezugssysteme nach dem System der EPSG (European Petroleum Survey Group) angegeben. Die EPSG stellt die Parameter für die meisten Bezugssysteme bereit. Diese sind als Download auf den Webseiten der EPSG (www.epsg.io ) zu beziehen.
 
 ### Örtliche Systeme für die Bauforschung
 
