@@ -1,10 +1,10 @@
 ---
 title: Analysing archaeological Objects
 lehrende: Bettineschi, Cinzia
-einrichtung: UniversitÃ¤t Augsburg
+einrichtung: Universität Augsburg
 stadt: Augsburg
 studiengang: Kunst- und Kulturgeschichte
-lv-typ: Ã?bung
+lv-typ: Übung
 link: https://digicampus.uni-augsburg.de/dispatch.php/course/overview?cid=1a942d426ef951ec51362d5f9e31f42a
 zielgruppe:
   - BA
