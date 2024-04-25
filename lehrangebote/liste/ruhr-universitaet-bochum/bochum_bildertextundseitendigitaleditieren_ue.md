@@ -1,26 +1,16 @@
 ---
 title: Bilder, Text und Seiten digital editieren
 lehrende: Haubenthal, Clarissa
-einrichtung: Ruhr-Universität
+einrichtung: Ruhr-Universität Bochum
 stadt: Bochum
-studiengang: Archäologische Wissenschaften
+studiengang: Archäologische Wissenschaften, Optionalbereich
 lv-typ: Übung
 link: https://www.ruhr-uni-bochum.de/archaeologie/vvaktuell.html.de
 zielgruppe:
   - BA
 
 inhalte:
-  - Software und Tools
-  - Online-Ressourcen
-  - Internet
+  - Software & Tools
+  - DatenprÃ¤sentation
   - Visualisierung
-  - Bildbearbeitung
-  - Digitale Dokumentation
-  - Dig. Methoden & Theorien
-  - Fotografie
-  - Archivierung
-  - Datenbanken
-  - Digitalisierung
 ---
-
-
