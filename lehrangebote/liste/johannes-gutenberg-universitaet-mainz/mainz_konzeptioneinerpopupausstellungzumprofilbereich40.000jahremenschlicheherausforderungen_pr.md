@@ -1,9 +1,9 @@
 ---
 title: Konzeption einer Pop-Up-Ausstellung zum Profilbereich "40.000 Jahre menschliche Herausforderungen"
 lehrende: Busch, Alexandra 
-einrichtung: Johannes Gutenberg-Universit‰t Mainz
+einrichtung: Johannes Gutenberg-Universit√§t Mainz
 stadt: Mainz
-studiengang: Arch‰ologie
+studiengang: Arch√§ologie
 lv-typ: Praktikum
 link: https://jogustine.uni-mainz.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N001269,-N0,-N388932794546117,-N388932794531118,-N0,-N0,-N0
 zielgruppe:
