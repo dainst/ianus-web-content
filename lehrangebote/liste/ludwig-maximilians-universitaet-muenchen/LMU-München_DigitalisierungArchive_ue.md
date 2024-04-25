@@ -1,14 +1,14 @@
 ---
 title: Wiedererstehendes Kar-Tukulti-Ninurta. Wie Archive durch digitalisierung zum Leben erweckt werden.
-lehrende: Dr. Simone Mühl
+lehrende: Dr. Simone MÃ¼hl
 einrichtung: LMU 
-stadt: München
-studiengang: (Vorderasiatische) Archäologie
-lv-typ: Übung
+stadt: MÃ¼nchen
+studiengang: (Vorderasiatische) ArchÃ¤ologie
+lv-typ: Ãœbung
 link: https://www.vorderas-archaeologie.uni-muenchen.de/studium_lehre/lvs_vaa-sose2024/index.html
 zielgruppe:
-- BA Archäologie
-- MA Vorderasiatische Archäologie
+- BA ArchÃ¤ologie
+- MA Vorderasiatische ArchÃ¤ologie
   
 
 inhalte:
