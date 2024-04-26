@@ -4,7 +4,7 @@ lehrende: Nakoinz, Oliver
 einrichtung: Christian-Albrechts-Universität zu Kiel
 stadt: Kiel
 studiengang: Prähistorische und Historische Archäologie
-lv-typ: V
+lv-typ: Vorlesung
 link: 
 zielgruppe:
   - BA
