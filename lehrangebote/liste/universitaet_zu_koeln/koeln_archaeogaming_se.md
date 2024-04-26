@@ -11,6 +11,7 @@ zielgruppe:
   - MA
   - PhD
 
+
 inhalte:
   - 3D-Modellierung
   - Software und Tools
