@@ -4,7 +4,7 @@ lehrende: Paliou, Eleftheria
 einrichtung: Universität zu Köln
 stadt: Köln
 studiengang: Archäoinformatik SM, AM oder EM und Digital and Computational Archaeology
-lv-typ: LV
+lv-typ: Lehrveranstaltung
 link: https://klips2.uni-koeln.de/co/pl/ui/$ctx;design=pl;header=max;lang=DE/wbLv.wbShowLVDetail?pStpSpNr=460162&pSpracheNr=1
 zielgruppe:
   - MA
