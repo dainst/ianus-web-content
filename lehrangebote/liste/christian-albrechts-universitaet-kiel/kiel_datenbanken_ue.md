@@ -4,7 +4,7 @@ lehrende: Rinne, Christoph
 einrichtung: Christian-Albrechts-Universität zu Kiel
 stadt: Kiel
 studiengang: Prähistorische und Historische Archäologie
-lv-typ: UE
+lv-typ: Übung
 link: 
 zielgruppe:
   - BA
