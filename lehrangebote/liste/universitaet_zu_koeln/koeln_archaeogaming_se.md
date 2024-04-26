@@ -4,7 +4,7 @@ lehrende: Hageneuer, Sebastian und Hiseni, Valentina
 einrichtung: Universität zu Köln
 stadt: Köln
 studiengang: Archäologie EM; Archäoinformatik AM; Digital and Computational Archaeology AM
-lv-typ: UE
+lv-typ: Übung
 link: https://klips2.uni-koeln.de/co/pl/ui/$ctx;design=pl;header=max;lang=DE/wbLv.wbShowLVDetail?pStpSpNr=459201
 zielgruppe:
   - BA
