@@ -60,7 +60,7 @@ J. Ludwig -- H. Enke  (Hrsg.) Leitfaden zum Forschungsdaten-Management (2013)
 ## Beispiele für Datenmanagementpläne
 
 DataONE (Hrsg.) Data Management Planning  
-[https://www.dataone.org/data-management-planning](https://www.dataone.org/data-management-planning)
+[https://dataoneorg.github.io/Education/lessons/03_planning/03_planning.pdf](https://dataoneorg.github.io/Education/lessons/03_planning/03_planning.pdf)
 
 DCC (Hrsg.) Data plan guidance and examples  
 [http://www.dcc.ac.uk/resources/data-management-plans/guidance-examples](http://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
