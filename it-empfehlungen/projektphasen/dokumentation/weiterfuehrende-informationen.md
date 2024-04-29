@@ -108,7 +108,7 @@ W3C (Hrsg.) Vocabularies
 - iDAI.chronontology: [http://chronontology.dainst.org/](http://chronontology.dainst.org/)
 - Virtual International Authority File (VIAF): [http://viaf.org/](http://viaf.org/)
 - Open Researcher and Contributor ID (ORCID): [https://orcid.org/](https://orcid.org/)
-- Gemeinsame Normdatei (GND): [http://www.dnb.de/DE/Standardisierung/GND/gnd\_node.html](http://www.dnb.de/DE/Standardisierung/GND/gnd_node.html)
+- Gemeinsame Normdatei (GND): [https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html)
 - Katalog der Deutschen Nationalbibliothek: [http://www.dnb.de/](http://www.dnb.de/)
 - iDAI.bibliography (Zenon): [https://zenon.dainst.org/](https://zenon.dainst.org/)
 
@@ -116,8 +116,8 @@ W3C (Hrsg.) Vocabularies
 
 - ARCHES: Archäologische Archivierung in Europa: Ein Handbuch (EAC-Guidelindes 1): [http://www.europae-archaeologiae-consilium.org/eac-guidlines](http://www.europae-archaeologiae-consilium.org/eac-guidlines)
 - Verband der Landesarchäologen: [https://www.landesarchaeologien.de/fileadmin/mediamanager/004-Kommissionen/...](https://www.landesarchaeologien.de/fileadmin/mediamanager/004-Kommissionen/Grabungstechnik/Grabungsstandards/grabungsstandards_april_06.pdf)
-- Bayerische Landesamt für Denkmalpflege: [http://www.blfd.bayern.de/bodendenkmalpflege/service/](http://www.blfd.bayern.de/bodendenkmalpflege/service/)  
-  [http://www.blfd.bayern.de/medien/dokuvorgaben\_august\_2016.pdf](http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf)
+- Bayerische Landesamt für Denkmalpflege: [https://www.blfd.bayern.de/information-service/index.html](https://www.blfd.bayern.de/information-service/index.html)  
+  [https://www.blfd.bayern.de/mam/information_und_service/fachanwender/dokuvorgaben_april_2020.pdf](https://www.blfd.bayern.de/mam/information_und_service/fachanwender/dokuvorgaben_april_2020.pdf)
 - Landesdenkmalamt Berlin: [https://www.berlin.de/landesdenkmalamt...](https://www.berlin.de/landesdenkmalamt/_assets/pdf-und-zip/service/grabungsstandard-2024-2025.pdf?ts=1707058476)
 - Brandenburgisches Landesamt für Denkmalpflege: [https://www.bldam-brandenburg.de/bodendenkmalpflege](https://www.bldam-brandenburg.de/bodendenkmalpflege)
 - Archäologisches Museum Hamburg: [https://amh.de/wp-content/uploads/Dokumentationsrichtlinien_FHH_211021.pdf](https://amh.de/wp-content/uploads/Dokumentationsrichtlinien_FHH_211021.pdf)
