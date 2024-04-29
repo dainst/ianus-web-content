@@ -57,7 +57,7 @@ J. M. Lill, Kontrolliertes Vokabular. Wieso? Weshalb? Warum?, Fachgruppe Dokumen
 [https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file...](https://swop.bsz-bw.de/frontdoor/deliver/index/docId/850/file/Lill_kontrolliertesVokabular_Nutzertreffen2012.pdf)
 
 J. Lindenthal, Normen und Standards für Thesauri (2015)  
-[https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf](https://www.ianus-fdz.de/downloads/files/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf)
+[https://ianus-fdz.de/downloads/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf](https://ianus-fdz.de/downloads/NormenEmpfehlungenEntwicklungThesauri_Lindenthal.pdf)
 
 nestor (Hrsg.) Standardisierung -- Metadaten  
 [https://wiki.dnb.de/display/NESTOR/Metadaten](https://wiki.dnb.de/display/NESTOR/Metadaten)
@@ -98,7 +98,7 @@ W3C (Hrsg.) Vocabularies
   [https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org...](https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org/wnk/&startNode=wk000249&lang=de&d=n)
 <!--- iDAI.vocab: [http://archwort.dainst.org/](http://archwort.dainst.org/) i.DAI.vocab nicht mehr vorhanden?-->
 - iDAI.thesaurus: [http://thesauri.dainst.org/de/hierarchical\_concepts.html](http://thesauri.dainst.org/de/hierarchical_concepts.html)
-- Encyclopedia of Life: [http://eol.org/](http://eol.org/)
+- Encyclopedia of Life: [https://eol.org/](https://eol.org/)
 - Wikidata: [https://www.wikidata.org/wiki/Wikidata:Main\_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - GeoNames: [http://www.geonames.org/](http://www.geonames.org/)
 - Getty Thesaurus of Geographic Names (TGN): [http://www.getty.edu/research/tools/vocabularies/tgn/](http://www.getty.edu/research/tools/vocabularies/tgn/)
