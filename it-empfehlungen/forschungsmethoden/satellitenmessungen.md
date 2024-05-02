@@ -69,7 +69,7 @@ Bilder und Preisangaben bei http://www.euspaceimaging.com/ Preis ca. 30$ pro qkm
 
 QuickBird 2 ist ein kommerzieller Satellit zur Erdbeobachtung. Er wird von DigitalGlobe betrieben. Er hat eine Auflösung von 0,6m. Die Detailbilder in GoogleEarth sind Quickbirdaufnahmen seit 2001.
 
-Bilder und Preisangaben bei http://www.digitalglobe.com/ oder http://www.eurimage.com/index.html Preis 16-41 $ pro qkm (mindestens 272 qkm)
+Bilder und Preisangaben bei <!-- http://www.digitalglobe.com/ oder Seite existiert nicht mehr --> http://www.eurimage.com/index.html Preis 16-41 $ pro qkm (mindestens 272 qkm)
 
 ## Quellen
 
