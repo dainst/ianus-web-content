@@ -311,7 +311,7 @@ Bei der Konvertierung in ein anderes Format, muss die Übernahme der Layerstrukt
 
 - Projekt Aegaron: https://aegaron.ucla.edu/
 - Bayern (S. 35): http://www.blfd.bayern.de/medien/dokuvorgaben_august_2016.pdf
-- Berlin (S. 11, S. 16): http://www.stadtentwicklung.berlin.de/denkmal/landesdenkmalamt/download/neuerscheinungen/grabung_standard.pdf
+- Berlin: https://www.berlin.de/landesdenkmalamt/_assets/pdf-und-zip/service/grabungsstandard-2024-2025.pdf?ts=1704063605
 <!-- - Hamburg (S. 5- 6): http://www.amh.de/index.php/18259 Seite existiert nicht mehr -->
 - Hessen (Anlage 2): http://hessen-archaeologie.de/Gesetzl_-Bestimmungen/Grabungsrichtlinien-2015/grabungsrichtlinien-2015.html
 - Niedersachsen: https://denkmalpflege.niedersachsen.de/service/dokumentation/fachinformation-archaeologie-145712.html
