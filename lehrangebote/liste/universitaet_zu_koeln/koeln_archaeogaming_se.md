@@ -1,5 +1,5 @@
 ---
-title: "That belongs in a museum" Creating Archaeogames from idea to release
+title: That belongs in a museum Creating Archaeogames from idea to release
 lehrende: Hageneuer, Sebastian und Hiseni, Valentina
 einrichtung: Universität zu Köln
 stadt: Köln
