@@ -296,7 +296,7 @@ MHTML-Dateien können mit Webbrowsern erstellt und geöffnet werden. Auch mit Te
 
 <br/>
 
-- Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb
+<!-- - Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb Seite existiert nicht mehr -->
 - Google Chrome "Save As MHTML": https://chrome.google.com/webstore/detail/save-as-mhtml/eomfifclcdpkaghkehajpolkdnkmegfa
 - Google Chrome "In Google Drive speichern": https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne
 - Mozilla Firefox "Mozilla Archive Format, with MHT and Faithful Save": https://addons.thunderbird.net/en-us/seamonkey/addon/mozilla-archive-format/
@@ -305,7 +305,7 @@ MHTML-Dateien können mit Webbrowsern erstellt und geöffnet werden. Auch mit Te
 
 Die Speicherung einer Webseite als MAFF-Datei wird derzeit nur von Mozilla Firefox mittels des Plug-ins "Mozilla Archive Format, with MHT and Faithful Save" unterstützt. MAFF-Dateien können nur von Mozilla Firefox mit diesem Plug-in geöffnet werden. Alle weiteren, aktuellen Webbrowsern können MAFF_Dateien öffnen, indem sie mittels eines Datenkompressionsprogramms entpackt werden.
 
-- Mozilla Firefox "Mozilla Archive Format, with MHT and Faithful Save":https://addons.mozilla.org/de/firefox/addon/mozilla-archive-format
+- Mozilla Firefox "Mozilla Archive Format, with MHT and Faithful Save":https://addons.thunderbird.net/en-us/seamonkey/addon/mozilla-archive-format/
 
 ### Archivierung als HTML mit Data-URI
 
@@ -319,14 +319,14 @@ Links der Quellcode einer HTML-Datei mit Data-URIs. Rechts die Darstellung im Br
 
 ### Archivierung von Websites
 
-Webseiten können durch Websitearchivierungsdienste archiviert werden, wie sie durch die Bayerische Landesbibliothek (auf Antrag) oder Internet Archive angeboten werden. Dabei erfolgt die Speicherung einer Webseite auf einem Server dieser Dienste und kann über das Internet abgerufen werden. Man gibt dazu die URI der zu archivierenden Seite  bei dem Archivierungsdienst an und wird kurz darauf auf die archivierte Seite unter einer neuen URI weitergeleitet. Es kann sowohl die einzelne Webseite als auch die gesamte (oder ein Großteil) der gesamten Website archiviert werden. Metadaten müssen separat z.B. in Form einer XML-Datei, die auch den Link zur archivierten Seite enthält, gespeichert werden. Da Websitearchivierungsdienste wie Internet Archive das WWW auch selbstständig durchsuchen und Websites archivieren, kann die zu archivierende Webseite bereits auf dieser Plattform gesichert worden sein. Dies wird durch die Archivierungsdienste jedoch gesondert ausgewiesen und hindert nicht daran, die Webseite zusätzlich ein weiteres Mal zu archivieren. Plug-ins wie "`Archiveror"' für Google Chrome oder Mozilla Firefox ermöglichen die Archivierung einer Webseite direkt aus dem Browser heraus auf Internet Archive.
+Webseiten können durch Websitearchivierungsdienste archiviert werden, wie sie durch die Bayerische Landesbibliothek (auf Antrag) oder Internet Archive angeboten werden. Dabei erfolgt die Speicherung einer Webseite auf einem Server dieser Dienste und kann über das Internet abgerufen werden. Man gibt dazu die URI der zu archivierenden Seite  bei dem Archivierungsdienst an und wird kurz darauf auf die archivierte Seite unter einer neuen URI weitergeleitet. Es kann sowohl die einzelne Webseite als auch die gesamte (oder ein Großteil) der gesamten Website archiviert werden. Metadaten müssen separat z.B. in Form einer XML-Datei, die auch den Link zur archivierten Seite enthält, gespeichert werden. Da Websitearchivierungsdienste wie Internet Archive das WWW auch selbstständig durchsuchen und Websites archivieren, kann die zu archivierende Webseite bereits auf dieser Plattform gesichert worden sein. Dies wird durch die Archivierungsdienste jedoch gesondert ausgewiesen und hindert nicht daran, die Webseite zusätzlich ein weiteres Mal zu archivieren. Plug-ins wie "`Archiveror"' für <!-- Google Chrome oder --> Mozilla Firefox ermöglichen die Archivierung einer Webseite direkt aus dem Browser heraus auf Internet Archive.
 
 ![Archivierung von Websites](./_media/web_wayback.png)
 *Screenshot der Webseite von IANUS in Google Chrome im Vollbild (oben) und ein Abbild der Webseite auf Internet Archive. Eindeutig erkennbar ist die vollständige Übernahme des Inhalts samt der Hyperlinks sowie die vollständige Übernahme des Designs.*
 
 Dezidierte Softwarelösungen wie Wget oder Heritrix ermöglichen den automatisierten Abruf aller zu einer Website gehörenden Komponente. Sie wurden primär für Linux entwickelt, können aber auch auf anderen Betriebssystemen verwendet werden. Beide sind frei verfügbar und können die gefundenen Ressourcen als WARC-Datei speichern.
 
-- Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb
+<!-- - Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb Seite existiert nicht mehr -->
 - Mozilla Firefox "Archiveror": https://addons.mozilla.org/en-US/firefox/addon/archiveror
 - Dienst der Bayrischen Landesbibliothek: https://www.babs-muenchen.de/index.html?c=workflows_web
 - Internet Archive mit Wayback Machine: https://archive.org/web
@@ -357,7 +357,7 @@ https://www.doi.org/hb.html
 A. Rauber -- H. Liegmann, Webarchivierung zur Langzeiterhaltung von Internet-Dokumenten, in: H. Neuroth -- A. Oßwald -- R. Scheffel -- S. Strathmann -- K. Huth (Hrsg.) nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchiverung. Version 2.3 (2010) Kap. 17.9
 http://www.nestor.sub.uni-goettingen.de/handbuch
 
-S. M. Schafer, HTML, XHTML, and CSS Bible 4(Indianapolis 2008)
+S. M. Schafer, HTML, XHTML, and CSS Bible 4 (Indianapolis 2008)
 
 M. Schäfer, Einführung in JavaScript – Deutschsprachige Dokumentation der Programmiersprache JavaScript
 http://molily.de/js/
@@ -366,7 +366,6 @@ SELFHTML-Wiki, Glossar
 https://wiki.selfhtml.org/wiki/Kategorie:Glossar
 
 M. Trognitz, Abschlussbericht Testbed "`Persistent Identifiers"' (2013)
-http://www.ianus-fdz.de/attachments/download/560/Testbed-Persistent%20Identifiers.pdf
 
 W3C (Hrsg.), CSS
 https://www.w3.org/Style/CSS
@@ -420,7 +419,7 @@ Tools und Programme
 - Web2PDF: http://www.web2pdfconvert.com
 - Swiss Academic Software Citavi: https://www.citavi.com/de/index.html
 - Adobe Acrobat Pro DC: https://acrobat.adobe.com/at/de/acrobat.html
-- Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb
+<!-- - Google Chrome "Archiveror": https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb Seite existiert nicht mehr -->
 - Mozilla Firefox "Archiveror": https://addons.mozilla.org/en-US/firefox/addon/archiveror
 - Google Chrome "Save As MHTML": https://chrome.google.com/webstore/detail/save-as-mhtml/eomfifclcdpkaghkehajpolkdnkmegfa
 - Google Chrome "In Google Drive speichern": https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne
