@@ -31,7 +31,7 @@ Für weitere Hierarchieebenen können folgende Kriterien berücksichtigt werden:
 
 Zusätzlich sollte eine Unterscheidung zwischen originalen Daten (Rohdaten), sekundären und finalen Daten erfolgen, um Prozesse transparent abzubilden. Dies ist auch für die zu archivierenden Daten relevant, da bei der Auswahl der Daten überholte oder temporäre Dateien und Dubletten in der Regel nicht berücksichtigt werden.
 
-Anwendungsgebiete mit mehreren voneinander abhängigen Dateikomplexen, wie zum Beispiel 3D-Scanning oder RTI-Fotografie, erfordern eigene Dateiablagen. Diese werden in den entsprechenden Abschnitten im Kapitel [Forschungsmethoden](https://www.ianus-fdz.de/it-empfehlungen/forschungsmethoden) beschrieben.
+Anwendungsgebiete mit mehreren voneinander abhängigen Dateikomplexen, wie zum Beispiel 3D-Scanning oder RTI-Fotografie, erfordern eigene Dateiablagen. Diese werden in den entsprechenden Abschnitten im Kapitel [Forschungsmethoden](https://ianus-fdz.de/it-empfehlungen/forschungsmethoden/index) beschrieben.
 
 ## Praxisbeispiele
 
