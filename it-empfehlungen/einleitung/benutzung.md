@@ -35,7 +35,7 @@ In der **rechten Spalte** findet man Materialien zum Download, die auf den gerad
 Die gesamten IT-Empfehlungen können als eine einzige Publikation betrachtet werden, deren unterschiedliche Kapitel von unterschiedlichen Autoren verfasst wurden. Auf die einzelnen Kapitel kann unter Nennung der Autoren entweder auf die Online-Version oder auf die Vollversion als PDF-Dokument verwiesen werden:
 
 - M. Trognitz -- P. Grunwald, Bilder -- Rastergrafiken, in: IANUS (Hrsg.), IT-Empfehlungen für den nachhaltigen Umgang mit digitalen Daten in den Altertumswissenschaften (25.01.2017) \[online\] doi: [https://dx.doi.org/10.13149/000.111000-a](https://dx.doi.org/10.13149/000.111000-a)
-- M. Trognitz -- P. Grunwald, Bilder -- Rastergrafiken, in: IANUS (Hrsg.), IT-Empfehlungen für den nachhaltigen Umgang mit digitalen Daten in den Altertumswissenschaften (2017) \[Version 1.0.0.0\] doi: [https://dx.doi.org/10.13149/000.y47clt-t](https://dx.doi.org/10.13149/000.y47clt-t)
+- M. Trognitz -- P. Grunwald, Bilder -- Rastergrafiken, in: IANUS (Hrsg.), IT-Empfehlungen für den nachhaltigen Umgang mit digitalen Daten in den Altertumswissenschaften (2017) <!--  \[Version 1.0.0.0\] doi: [https://doi.org/10.13149/000.y47clt-t](https://dx.doi.org/10.13149/000.y47clt-t) DOI ungültig -->
 
 Die  Online-Version der IT-Empfehlungen ist immer die aktuellste Fassung und hat für die dauerhafte Referenzierung einen DOI:
 
