@@ -330,7 +330,7 @@ GeoTiff: <!---http://www.remotesensing.org/geotiff/spec/geotiffhome.html Seite e
 ### Tools und Programme
 
 - Irfanview: http://www.irfanview.de/
-- Adobe DNG Converter: http://www.adobe.com/products/photoshop/extend.displayTab2.html\#downloads
+- Adobe DNG Converter: https://helpx.adobe.com/de/camera-raw/using/adobe-dng-converter.html
 - Zamzar: http://www.zamzar.com/url/
 - JHOVE: http://sourceforge.net/projects/jhove/
 - http://jhove.sourceforge.net/
