@@ -94,8 +94,7 @@ W3C (Hrsg.) Vocabularies
 
 - Art & Architecture Thesaurus (AAT): [http://www.getty.edu/research/tools/vocabularies/aat/](http://www.getty.edu/research/tools/vocabularies/aat/)
 - Heritage Data -- Linked Data Vocabularies for Cultural Heritage: [http://www.heritagedata.org/blog/vocabularies-provided/](http://www.heritagedata.org/blog/vocabularies-provided/)
-- Wortnetz Kultur (WNK): [http://www.digicult-verbund.de/vortraege/2015/WNK\_WortnetzKultur\_2015111...](http://www.digicult-verbund.de/vortraege/2015/WNK_WortnetzKultur_20151110.pdf)  
-  [https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org...](https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org/wnk/&startNode=wk000249&lang=de&d=n)
+- Wortnetz Kultur (WNK): [https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org...](https://xtree-public.digicult-verbund.de/vocnet/?uriVocItem=http://lvr.vocnet.org/wnk/&startNode=wk000249&lang=de&d=n)
 <!--- iDAI.vocab: [http://archwort.dainst.org/](http://archwort.dainst.org/) i.DAI.vocab nicht mehr vorhanden?-->
 - iDAI.thesaurus: [http://thesauri.dainst.org/de/hierarchical\_concepts.html](http://thesauri.dainst.org/de/hierarchical_concepts.html)
 - Encyclopedia of Life: [https://eol.org/](https://eol.org/)
