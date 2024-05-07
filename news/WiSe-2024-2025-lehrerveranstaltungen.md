@@ -4,7 +4,6 @@ tags: ['Lehrveranstaltung', 'Winter']
 date: 29.04.2024
 ---
 
-## Call!!
 
 Wir möchten Sie für das Wintersemester 2024/25 erneut aufrufen, diese Sammlung zu unterstützen: https://www.ianus-fdz.de/lehrangebote.
 
