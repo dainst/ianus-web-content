@@ -485,14 +485,14 @@ Die Datenbankinhalte selbst lassen sich aus FileMaker Pro mit Hilfe von *Datei &
 
 Ausschnitt des Filemaker-Datenbank-Design-Berichts im [XML](http://it-empfehlungen/glossar#XML "(Extensible Markup Language) ist eine Auszeichnungssprache, die eine Teilmenge von SGML bildet und die Definition von eigenen Auszeichnungselementen erlaubt, um beliebige Strukturen annotieren zu können. De facto wurde SGML von der einfacher anwendbaren XML verdrängt. XML wird vom W3C gepflegt und entwickelt. Es bildet die Grundlage von vielen weiteren Dateiformaten wie ODT, DOCX, SVG etc. Für XML-Dateien gibt es als Alternative zu einer Dokumenttypdefinition (DTD) die Möglichkeit der Verwendung eines XML Schemas.")-Format     Zerschießt Layout von Seite --> 
 
-Datenbank-Design-Report von Filemaker: [http://www.filemaker.com/de/help/html/fmpa_tools.24.5.html](http://www.filemaker.com/de/help/html/fmpa_tools.24.5.html">http://www.filemaker.com/de/help/html/fmpa_tools.24.5.html)
+Datenbank-Design-Report von Filemaker: [http://www.filemaker.com/de/help/html/fmpa_tools.24.5.html](http://www.filemaker.com/de/help/html/fmpa_tools.24.5.html)
 
 
 
 
 T. Bossert -- U. Böttcher -- P. Teich, [SQL](http://it-empfehlungen/glossar#SQL "Structured Query Language) ist eine Datenbanksprache zur Definition, Abfrage und Manipulation von Daten in relationalen Datenbanken. SQL ist unter ISO 9075 standardisiert und wird von fast allen gängigen Datenbanksystemen unterstützt.") -- Grundlagen und Datenbankdesign (Bodenheim 2010).
 
-H. Eiteljorg, Archaeological Computing <sup>2</sup>(Bryn Mawr 2008) [http://archcomp.csanet.org/](http://archcomp.csanet.org/">http://archcomp.csanet.org/)
+H. Eiteljorg, Archaeological Computing <sup>2</sup>(Bryn Mawr 2008) [http://archcomp.csanet.org/](http://archcomp.csanet.org/)
 
 P. Kandzia -- H. J. Klein, Theoretische Grundlagen relationaler Datenbanksysteme. Reihe Informatik 79 (1993).
 
@@ -505,7 +505,7 @@ Koordinationsstelle für die dauerhafte Archivierung elektronischer Unterlagen (
 [http://kost-ceco.ch/wiki/whelp/KaD/pages/Datenbanken.html](http://kost-ceco.ch/wiki/whelp/KaD/pages/Datenbanken.html)
 
 Library of Congress (Hrsg.), Sustainability of Digital Formats. Planning for Library of Congress Collections. Format Descriptions for Dataset Formats (12.2016)
-[http://www.digitalpreservation.gov/formats/fdd/dataset_fdd.shtml](<a href="http://www.digitalpreservation.gov/formats/fdd/dataset_fdd.shtml">)
+[http://www.digitalpreservation.gov/formats/fdd/dataset_fdd.shtml](http://www.digitalpreservation.gov/formats/fdd/dataset_fdd.shtml)
 
 F. Schäfer -- K. Hofmann, Datenbankmanagementsysteme, in: DAI (Hrsg.), Leitfaden zur Anwendung von Informationstechniken der archäologischen Forschung. TEIL II Praxisratgeber (2011)
 [http://www.ianus-fdz.de/it-empfehlungen/sites/default/files/ianusFiles/I...](http://www.ianus-fdz.de/it-empfehlungen/sites/default/files/ianusFiles/IT-Leitfaden_Teil2_v100_DAI.pdf)
@@ -531,7 +531,7 @@ D. Smith, Database fundamentals for archaeologists, in: S. Ross et al. (Hrsg.), 
 * [SQL](http://it-empfehlungen/glossar#SQL "(Structured Query Language) ist eine Datenbanksprache zur Definition, Abfrage und Manipulation von Daten in relationalen Datenbanken. SQL ist unter ISO 9075 standardisiert und wird von fast allen gängigen Datenbanksystemen unterstützt."):2011 [ISO](http://it-empfehlungen/glossar#ISO/ "(International Organization for Standardization) eine internationale Vereinigung von Normungsorganisationen. Sie erarbeitet internationale Normen in allen Bereichen mit Ausnahme der Elektrik und der Elektronik, für die die Internationale elektrotechnische Kommission (IEC) zuständig ist, und mit Ausnahme der Telekommunikation, für die die Internationale Fernmeldeunion (ITU) zuständig ist.") 9075 [http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=53681](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=53681)
 
 
-* Database Markup Language: [https://dml.codeplex.com/](https://dml.codeplex.com/)
+* Database Markup Language: [https://dbml.dbdiagram.io/home](https://dbml.dbdiagram.io/home)
 
 * [XML](http://it-empfehlungen/glossar#XML "(Extensible Markup Language) ist eine Auszeichnungssprache, die eine Teilmenge von SGML bildet und die Definition von eigenen Auszeichnungselementen erlaubt, um beliebige Strukturen annotieren zu können. De facto wurde SGML von der einfacher anwendbaren XML verdrängt. XML wird vom W3C gepflegt und entwickelt. Es bildet die Grundlage von vielen weiteren Dateiformaten wie ODT, DOCX, SVG etc. Für XML-Dateien gibt es als Alternative zu einer Dokumenttypdefinition (DTD) die Möglichkeit der Verwendung eines XML Schemas."): [W3C](http://it-empfehlungen/glossar#W3C "(World Wide Web Consortium) ist das wichtigste Gremium zur Standardisierung des World Wide Web, das 1994 gegründet wurde. Das W3C entwickelt technische Spezifikationen und Richtlinien und stellt diese Vorgänge auch transparent auf deren Webseiten dar. http://www.w3.org/") [http://www.w3.org/TR/xml/](http://www.w3.org/TR/xml/)
 
@@ -551,7 +551,7 @@ D. Smith, Database fundamentals for archaeologists, in: S. Ross et al. (Hrsg.), 
 
 * PostgreSQL: [https://www.postgresql.org/](https://www.postgresql.org/)
 
-* Vergleich von [DBMS](http://it-empfehlungen/glossar#DBMS "(Datenbankmanagementsystem) ist die Verwaltungssoftware eines DBS über die der Nutzer auf die Datenbank zugreift. Es steuert die strukturierte Speicherung der Daten und führt alle lesenden und schreibenden Zugriffe auf die Datenbank aus."): [https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-post...](https://www.digitalocean.com/community/tutorials sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
+* Vergleich von [DBMS](http://it-empfehlungen/glossar#DBMS "(Datenbankmanagementsystem) ist die Verwaltungssoftware eines DBS über die der Nutzer auf die Datenbank zugreift. Es steuert die strukturierte Speicherung der Daten und führt alle lesenden und schreibenden Zugriffe auf die Datenbank aus."): [https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-post...](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 
 * Microsoft [SQL](http://it-empfehlungen/glossar#SQL "(Structured Query Language) ist eine Datenbanksprache zur Definition, Abfrage und Manipulation von Daten in relationalen Datenbanken. SQL ist unter ISO 9075 standardisiert und wird von fast allen gängigen Datenbanksystemen unterstützt.") [Server](it-empfehlungen/glossar#Server "ist ein Programm oder Computer (Host), der in einem Netzwerk, wie beispielsweise im Internet, verschiedene Dienste und Ressourcen zur Verfügung stellt. Andere Programme oder Computer die auf den Server zugreifen werden Clients genannt."): [https://www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)
 
@@ -569,7 +569,7 @@ D. Smith, Database fundamentals for archaeologists, in: S. Ross et al. (Hrsg.), 
 
 * MySQL Workbench: [http://www.mysql.de/products/workbench/](http://www.mysql.de/products/workbench/)
   
-* SQLite Database [Browser](http://http://sqlitebrowser.org/ "Ein Browser ist ein Computerprogramm zum Abrufen wie auch Darstellen von Dateien (HTML-Dokumente, PDF-Dateien, multimediale Inhalte). Ein Webbrowser dient speziell für die Darstellung von Dateien und ganzen Webanwendungen aus dem Internet und ist die Schnittstelle zwischen dem Nutzer und WWW"): [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
+* SQLite Database [Browser](http://sqlitebrowser.org/ "Ein Browser ist ein Computerprogramm zum Abrufen wie auch Darstellen von Dateien (HTML-Dokumente, PDF-Dateien, multimediale Inhalte). Ein Webbrowser dient speziell für die Darstellung von Dateien und ganzen Webanwendungen aus dem Internet und ist die Schnittstelle zwischen dem Nutzer und WWW"): [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
 
 * Oracle [SQL](http://it-empfehlungen/glossar#SQL "(Structured Query Language) ist eine Datenbanksprache zur Definition, Abfrage und Manipulation von Daten in relationalen Datenbanken. SQL ist unter ISO 9075 standardisiert und wird von fast allen gängigen Datenbanksystemen unterstützt.") Developer: [http://www.oracle.com/technetwork/developer-tools/sql-developer/](http://www.oracle.com/technetwork/developer-tools/sql-developer/)
 
