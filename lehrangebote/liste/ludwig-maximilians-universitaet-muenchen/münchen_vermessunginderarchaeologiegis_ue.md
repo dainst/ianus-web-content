@@ -3,12 +3,12 @@ title: Vermessung in der Archäologie. Einführung in Geograpische Informationss
 lehrende: Christoph Fink, M.A.
 einrichtung: LMU 
 stadt: München
-studiengang: (Vorderasiatische) Arch�ologie
+studiengang: (Vorderasiatische) Archäologie
 lv-typ: Übung
 link: https://www.vorderas-archaeologie.uni-muenchen.de/studium_lehre/lvs_vaa-sose2024/index.html
 zielgruppe:
 - BA Archäologie
-- MA Vorderasiatische Arch�ologie
+- MA Vorderasiatische Archäologie
   
 
 inhalte:
