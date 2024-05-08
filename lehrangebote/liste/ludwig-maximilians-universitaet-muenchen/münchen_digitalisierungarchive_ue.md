@@ -17,5 +17,5 @@ inhalte:
   - Digitale Datenauswertung
   - Digitalisierung
   - Digital Humanities
-  
+---
  
