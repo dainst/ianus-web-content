@@ -1,5 +1,5 @@
 ---
-title: Digitale Topographie des antiken Rom: Erfassung, Verwaltung und Präsentation von räumlichen Daten (GIS)
+title: Digitale Topographie des antiken Rom. Erfassung, Verwaltung und Präsentation von räumlichen Daten (GIS)
 lehrende: Muth, Susanne / Mariaschk, Dirk
 einrichtung: Humboldt-Universität zu Berlin
 stadt: Berlin
