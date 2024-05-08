@@ -1,5 +1,5 @@
 ---
-title: Datenbanken: Grundlagen und konkrete Anwendungen
+title: Datenbanken. Grundlagen und konkrete Anwendungen
 lehrende: Rinne, Christoph
 einrichtung: Christian-Albrechts-Universität zu Kiel
 stadt: Kiel
