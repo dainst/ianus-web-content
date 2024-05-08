@@ -23,5 +23,4 @@ inhalte:
   - Digitale Ressourcen
   - 3D
   - Digitalisierung
-
 ---
