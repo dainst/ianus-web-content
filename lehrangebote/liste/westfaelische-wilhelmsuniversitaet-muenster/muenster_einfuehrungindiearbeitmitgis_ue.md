@@ -7,12 +7,12 @@ studiengang: Ur- und Frühgeschichte
 lv-typ: Übung
 link: https://www.uni-muenster.de/UrFruehGeschichte/studieren/lehrangebot_der_abteilung.html
 zielgruppe:
-  - BA
+  - BA
 
 inhalte:
-  - Software und Tools
-  - Spatial Analysis
-  - GIS
+  - Software und Tools
+  - Spatial Analysis
+  - GIS
   - Digitale Datenauswertung
 ---
  
