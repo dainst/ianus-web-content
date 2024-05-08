@@ -1,5 +1,5 @@
 ---
-title: GIS in der Praxis: eine landschaftsarchäologische Erfassung römischer Fundstellen im Kreis St. Wendel
+title: GIS in der Praxis. eine landschaftsarchäologische Erfassung römischer Fundstellen im Kreis St. Wendel
 lehrende: Hornung, Sabine; Bädecker, Steve
 einrichtung: Universität des Saarlandes
 stadt: Saarbrücken
@@ -18,6 +18,5 @@ inhalte:
   - Spatial Analysis
   - Dig. Methoden & Theorien
   - Digitale Datenauswertung
-
 ---
  
