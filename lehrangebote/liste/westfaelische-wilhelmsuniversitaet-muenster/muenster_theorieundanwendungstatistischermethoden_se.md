@@ -8,7 +8,6 @@ lv-typ: Seminar
 link: https://www.uni-muenster.de/UrFruehGeschichte/studieren/lehrangebot_der_abteilung.html
 zielgruppe:
   - MA
-
 inhalte:
   - Statistik
   - Datenbanken
