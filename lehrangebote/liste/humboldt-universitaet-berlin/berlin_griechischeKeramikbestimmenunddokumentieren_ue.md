@@ -1,5 +1,5 @@
 ---
-title: Griechische Keramik: Bestimmen und Dokumentieren
+title: Griechische Keramik. Bestimmen und Dokumentieren
 lehrende: Henning, Agnes
 einrichtung: Humboldt-Universität zu Berlin
 stadt: Berlin
