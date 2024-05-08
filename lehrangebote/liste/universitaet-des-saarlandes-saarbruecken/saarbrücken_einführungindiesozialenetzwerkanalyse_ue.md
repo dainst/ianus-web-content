@@ -1,7 +1,7 @@
 ---
 title: Einführung in die soziale Netzwerkanalyse
 lehrende: Fürst, Sebastian
-einrichtung: UniversitÃ¤t des Saarlandes
+einrichtung: Universität des Saarlandes
 stadt: Saarbrücken
 studiengang: Vor- und Frühgeschichte
 lv-typ: Übung
