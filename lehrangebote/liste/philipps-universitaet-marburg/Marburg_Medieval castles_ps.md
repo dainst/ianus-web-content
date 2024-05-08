@@ -1,6 +1,6 @@
 ---
 title: Medieval castles, monesteries and villages in Hesse (Germany)
-lehrende: Teichner, felix
+lehrende: Teichner, Felix
 einrichtung: Philipps-Universität Marburg
 stadt: Marburg
 studiengang: Prähistorische Archäologie / Geoarchäologie
