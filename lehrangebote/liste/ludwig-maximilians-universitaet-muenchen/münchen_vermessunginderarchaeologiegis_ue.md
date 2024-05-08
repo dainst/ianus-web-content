@@ -1,5 +1,5 @@
 ---
-title: Vermessung in der Archäologie: Einführung in Geograpische Informationssysteme
+title: Vermessung in der Archäologie. Einführung in Geograpische Informationssysteme
 lehrende: Christoph Fink, M.A.
 einrichtung: LMU 
 stadt: München
@@ -17,5 +17,4 @@ inhalte:
   - Dig. Methoden & Theorien
   - Datenbanken
   - Digitale Datenauswertung
-  
- 
+---
