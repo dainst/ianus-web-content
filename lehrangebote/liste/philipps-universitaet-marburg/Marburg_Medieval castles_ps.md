@@ -12,7 +12,7 @@ zielgruppe:
   - PHD
 
 inhalte:
-   - Photogrammetrie
+  - Photogrammetrie
   - Visualisierung
   - GIS
   - Bildbearbeitung
