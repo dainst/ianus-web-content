@@ -1,5 +1,5 @@
 ---
-title: Heritage and the machine: introduction to knowledge representation and extraction
+title: Heritage and the machine. introduction to knowledge representation and extraction
 lehrende: Sartini, Bruno
 einrichtung: Ludwig-Maximilians-Universität München
 stadt: München
