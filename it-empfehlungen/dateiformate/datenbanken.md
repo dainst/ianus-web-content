@@ -9,7 +9,7 @@ authors:
 downloads:
   - checkliste-erstellung-datenbank
 ---
-*Der Stand der IT-Empfehlungen entspricht 2018. Die IT-Empfehlungen werden sukzessiv erneuert, falls Sie Interesse haben mitzuwirken nutzen Sie bitte [diesen Workflow](https://github.com/dainst/ianus-web-content/wiki/Erstellung-von-Lehrangeboten).*
+*Der Stand der FDM-Empfehlungen entspricht 2018. Die FDM-Empfehlungen werden sukzessiv erneuert, falls Sie Interesse haben mitzuwirken nutzen Sie bitte [diesen Workflow](https://github.com/dainst/ianus-web-content/wiki/Erstellung-von-Lehrangeboten).*
 
 # Datenbanken
 

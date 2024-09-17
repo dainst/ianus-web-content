@@ -9,7 +9,7 @@ authors:
 
 Üblicherweise besteht der Dateiname einer Datei aus dem eigentlichen Namen und der durch einen Punkt getrennten Dateinamenserweiterung, die das Format der Datei angibt. Die Erweiterung wird in der Regel von dem Programm, mit dem die Datei gespeichert wurde, automatisch an den Dateinamen gehängt.
 
-Ein Beispiel: _IT-Empfehlungen.pdf_ gibt an, dass es sich um eine Datei mit dem Namen _"IT-Empfehlungen"_ handelt, die in dem PDF-Format vorliegt.
+Ein Beispiel: _FDM-Empfehlungen.pdf_ gibt an, dass es sich um eine Datei mit dem Namen _"FDM-Empfehlungen"_ handelt, die in dem PDF-Format vorliegt.
 
 Da die Erweiterung automatisch erzeugt wird, muss die Datei mit einem geeigneten Programm konvertiert werden, wenn man das Dateiformat ändern möchte. In dem Kapitel [Dateiformate](/it-empfehlungen/dateiformate/index) sind ausführliche Informationen darüber zu finden.
 

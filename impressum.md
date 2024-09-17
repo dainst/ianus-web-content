@@ -34,7 +34,7 @@ Das Deutsche Archäologische Institut und IANUS sind bemüht, ihr Webangebot ste
 Wenn nicht anders gekennzeichnet, sind die Inhalte und Materialien
 
 - der [IANUS-Homepage](http://www.ianus-fdz.de)
-- der von [IANUS herausgegebenen IT-Empfehlungen](http://www.ianus-fdz.de/it-empfehlungen)
+- der von [IANUS herausgegebenen FDM-Empfehlungen](http://www.ianus-fdz.de/it-empfehlungen)
 - des von [IANUS betriebenen Datenportals](http://datenportal.ianus-fdz.de)
 
 lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](https://creativecommons.org/licenses/by-sa/4.0/).

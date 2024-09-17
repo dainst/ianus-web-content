@@ -1,13 +1,13 @@
 # Archivierung bei IANUS
 
 
-Bitte beachten Sie **unbedingt** die nachfolgenden Informationen zu den akzeptierten Datenformaten (*ausklappbar*). Nicht jedes Dateiformat ist für die Langzeitarchivierung geeignet, weshalb dies ein zentrales Thema der IT-Empfehlungen ist. Nur in Ausnahmefällen können abweichende Dateiformate langzeitarchiviert werden und hier muss dies entsprechend in der preservation policy vermerkt werden sowie im Datenübergabevertrag. Bitte sprechen Sie mit uns in diesem Fall. Dies sind die gängigen Dateiformate und die Liste erhebt keinen Anspruch auf Vollständigkeit. 
+Bitte beachten Sie **unbedingt** die nachfolgenden Informationen zu den akzeptierten Datenformaten (*ausklappbar*). Nicht jedes Dateiformat ist für die Langzeitarchivierung geeignet, weshalb dies ein zentrales Thema der FDM-Empfehlungen ist. Nur in Ausnahmefällen können abweichende Dateiformate langzeitarchiviert werden und hier muss dies entsprechend in der preservation policy vermerkt werden sowie im Datenübergabevertrag. Bitte sprechen Sie mit uns in diesem Fall. Dies sind die gängigen Dateiformate und die Liste erhebt keinen Anspruch auf Vollständigkeit. 
 
 ### Präferierte und akzeptierte Dateiformate
 
 <details><summary>PDF-Dokumente</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [PDF-Dokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/pdf-dokumente).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [PDF-Dokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/pdf-dokumente).
   
 Format | Extension | Status | Kommentar
 -------- | -------- | -------- | --------
@@ -19,7 +19,7 @@ PDF/A-3 | .pdf   | akzeptiert  | -a oder -u; nach eingehender Prüfung
 
 <details><summary>Text-Dokumente</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [Textdokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/textdokumente).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [Textdokumente](https://ianus-fdz.de/it-empfehlungen/dateiformate/textdokumente).
   Wichtig ist hier, dass eingebundene Inhalte ebenfalls erhalten werden können. Insbesondere bei eingebundenen Bildern, Formeln oder künstlerischen Grafiken ist dies zu beachten. 
   
 Format | Extension | Status | Kommentar
@@ -35,7 +35,7 @@ PDF/A | .pdf   | akzeptiert  | -a oder -u
 
 <details><summary>Bilder und Rastergrafiken</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [Bilder – Rastergrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/rastergrafiken).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [Bilder – Rastergrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/rastergrafiken).
   Wichtig ist hier, dass es sich um möglichst nicht komprimierte Formate handelt. Insbesondere proprietäre Kameraformate der Hersteller können nicht archiviert werden.
   
 Format | Extension | Status | Kommentar
@@ -50,7 +50,7 @@ JPEG2000 |	.jp2, .jpx	|	akzeptiert | nur wenn ein TIFF nicht möglich oder sinnv
 
 <details><summary>Tabellen und Datenbanken </summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [Tabellen](hhttps://ianus-fdz.de/it-empfehlungen/dateiformate/tabellen) und [Datenbanken](https://ianus-fdz.de/it-empfehlungen/dateiformate/datenbanken).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [Tabellen](hhttps://ianus-fdz.de/it-empfehlungen/dateiformate/tabellen) und [Datenbanken](https://ianus-fdz.de/it-empfehlungen/dateiformate/datenbanken).
   Wichtig ist hier, die Datenentstehung und insbesondere alle Codes in den Metadaten zu vermerken. Alle Beziehungen zu den Daten sowie alle notwendigen Details für die Lesbarkeit der Daten sollten gut dokumentiert werden.
   
 Format | Extension | Status | Kommentar
@@ -68,7 +68,7 @@ Excel Tabellen (.xlsx oder auch .xls) genauso wie die Open- oder Libreoffice-Dat
 
 <details><summary>GIS-Daten</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [GIS](https://ianus-fdz.de/it-empfehlungen/dateiformate/gis).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [GIS](https://ianus-fdz.de/it-empfehlungen/dateiformate/gis).
   Wichtig ist hier, die Datenentstehung und insbesondere EPSG bzw. CRS in den Metadaten zu vermerken.
   
 Format | Extension | Status | Kommentar
@@ -83,7 +83,7 @@ Raster (GeoTIFF etc.) |	.tiff/.tif + .xml/.txt|	präferiert | Alle Formate, die 
 
 <details><summary>3D-Daten</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [3D und Virtual Reality](https://ianus-fdz.de/it-empfehlungen/dateiformate/3d).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [3D und Virtual Reality](https://ianus-fdz.de/it-empfehlungen/dateiformate/3d).
   Wichtig ist hier Entscheidungen zu treffen, für welche Modelle auch die Originalbilder erhalten werden sollen. Proprietäre Formate der Hersteller können nicht archiviert werden.
   
 Format | Extension | Status | Kommentar
@@ -99,7 +99,7 @@ Raw XYZ|	.xyz, .txt etc. |	präferiert |
 
 <details><summary>Vector-Grafiken</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [Vektorgrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/vektorgrafiken).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [Vektorgrafiken](https://ianus-fdz.de/it-empfehlungen/dateiformate/vektorgrafiken).
   Wichtig ist hier Entscheidungen zu treffen, für welche Modelle auch die Originalbilder erhalten werden sollen. Proprietäre Formate der Hersteller können nicht archiviert werden. Es ist sinnvoll, neben den reinen Daten, auch eine Ansichtsgestaltung zu erhalten, damit der orginale Kontext nicht verloren geht. Für CAD-Daten und Konstruktionszeichnungen werden mehrere Versionen der Datei erhalten. Für Details kann auch der Report ["Preserving CAD" aus der Data Types Series der Digital
 Preservation Coalition](http://doi.org/10.7207/twgn21-15) konsultiert werden.
   
@@ -111,7 +111,7 @@ SVG | .svg + .tiff/.tif / + PDF/A + .dxf   | präferiert  | bei reinen Vektorzei
   
 <details><summary>Audio und Video</summary>
   
-  Details finden Sie in den IT-Empfehlungen im Kapitel [Audio](https://ianus-fdz.de/it-empfehlungen/dateiformate/audio) und [Video](https://ianus-fdz.de/it-empfehlungen/dateiformate/video).
+  Details finden Sie in den FDM-Empfehlungen im Kapitel [Audio](https://ianus-fdz.de/it-empfehlungen/dateiformate/audio) und [Video](https://ianus-fdz.de/it-empfehlungen/dateiformate/video).
   Wichtig ist hier, dass es sich bei den Dateiformaten für digitale Audiodateien um Containerformate handelt. Deshalb muss bei der Auswahl für die Langzeitarchivierung nicht nur ein passendes Format, sondern auch ein geeigneter Codec gefunden werden.
   
 Format | Extension | Status | Kommentar

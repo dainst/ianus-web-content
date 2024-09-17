@@ -53,7 +53,7 @@ Sollten Sie Fragen zum Projekt haben, wenden Sie sich bitte an die Projektleitun
 
 - Datenkuration
 - Schwerpunkte: Grafiken, 3D-Daten
-- Inhaltliche & technische Entwicklung IT-Empfehlungen
+- Inhaltliche & technische Entwicklung FDM-Empfehlungen
 
 ## Zoe Schubert, M.A.
 
@@ -93,7 +93,7 @@ Sollten Sie Fragen zum Projekt haben, wenden Sie sich bitte an die Projektleitun
 - Schwerpunkte: Texte
 - Beratung Datenformate und -management
 - Ausbildung und Qualifizierung
-- Redaktion IT-Empfehlungen
+- Redaktion FDM-Empfehlungen
 
 ## Hendrik Schmeer
 
