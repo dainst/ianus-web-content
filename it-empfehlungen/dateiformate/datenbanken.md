@@ -596,4 +596,4 @@ D. Smith, Database fundamentals for archaeologists, in: S. Ross et al. (Hrsg.), 
 
 Haben Sie Anregungen, Änderungswünsche oder Ergänzungen zu dem Kapitel? Dann können Sie diese als Diskussionsbeitrag formulieren. Um die Funktion zu nutzen, ist eine Anmeldung erforderlich.
 
-Bitte geben Sie möglichst genau an, worauf Sie sich beziehen. Das IANUS-Team prüft die Diskussionsbeträge regelmäßig und arbeitet diese bei Relevanz in die [IT](http://it-empfehlungen/glossar#IT-Empfehlungen "(Informationstechnologie) ein Oberbegriff für die Informations- und Datenverarbeitung sowie für die dafür benötigte Hard- und Software. Häufig wird auch die englisch ausgesprochene Abkürzung IT verwendet.")-Empfehlungen ein.
+Bitte geben Sie möglichst genau an, worauf Sie sich beziehen. Das IANUS-Team prüft die Diskussionsbeträge regelmäßig und arbeitet diese bei Relevanz in die [FDM](http://it-empfehlungen/glossar#IT-Empfehlungen "(Informationstechnologie) ein Oberbegriff für die Informations- und Datenverarbeitung sowie für die dafür benötigte Hard- und Software. Häufig wird auch die englisch ausgesprochene Abkürzung IT verwendet.")-Empfehlungen ein.
