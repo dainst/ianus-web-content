@@ -16,6 +16,7 @@ Falls Sie an Informationen und Übersichten zu Lehrveranstaltungen generell im B
 
 Vergangene Lehrveranstaltungssammlung zur Archäoinformatik:
 - [Lehrveranstaltungen_Archaeoinf_2024_SoSe.pdf](https://github.com/dainst/ianus-web-content/files/12752831/Lehrveranstaltungen_Archaeoinf_2024_SoSe.pdf)
+- [Lehrveranstaltungen_Archaeoinf_2023-24_WiSe.pdf](https://ianus-fdz.de/downloads/Lehrveranstaltungen_Archaeoinf_2023_WiSe.pdf)
 - [Lehrveranstaltungen_Archaeoinf_2023_SoSe.pdf](https://github.com/dainst/ianus-web-content/files/12752831/Lehrveranstaltungen_Archaeoinf_2023_SoSe.pdf)
 - [Lehrveranstaltungen_Archaeoinf_2021_SoSe.pdf](https://github.com/dainst/ianus-web-content/files/11040784/Lehrveranstaltungen_Archaeoinf_2021_SoSe.pdf)
 - [Lehrveranstaltungen_Archaeoinf_2020-21_WiSe.pdf.pdf](https://github.com/dainst/ianus-web-content/files/11040783/Lehrveranstaltungen_Archaeoinf_2020-21_WiSe.pdf.pdf)
