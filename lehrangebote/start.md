@@ -1,3 +1,4 @@
+[comment]: <> (ACHTUNG- Dieses file wird nicht mit übertragen sondern lehrveranstaltungen.vue muss im haupt repo aktualisiert werden. das gleiche gilt für lehrveranstaltungen/start.md)
 # Sammlung von Lehrangeboten mit archäoinformatischen Inhalten
 
 Die nachfolgende Tabelle umfasst die an IANUS gemeldeten Lehrveranstaltungen zur Vermittlung archäoinformatischer Inhalte im oben angegebenen Semester, die von unterschiedlichen Hochschulen in Deutschland angeboten werden. Diese Auflistung erhebt keinen Anspruch auf Vollständigkeit.
