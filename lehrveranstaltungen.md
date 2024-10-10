@@ -1,3 +1,4 @@
+[comment]: <> (ACHTUNG- Dieses file wird nicht mit übertragen sondern lehrveranstaltungen.vue muss im haupt repo aktualisiert werden. das gleiche gilt für lehrveranstaltungen/start.md)
 ## Lehrveranstaltungen mit archäoinformatischen Inhalten
 
 Jedes Semester werden Lehrende, aber auch Studierende sowie MitarbeiterInnen an Hochschulen aufgerufen, uns Lehrveranstaltungen zur digitalen
