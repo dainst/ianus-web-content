@@ -18,4 +18,4 @@ inhalte:
   - Linked Open Data
   - Netzwerkanalyse
   - Forschungsdatenmanagement, Nationale Forschungsdateninfrastruktur (NFDI)
-  ---
+---

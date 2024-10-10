@@ -1,5 +1,5 @@
 ---
-title: CAD für Archäologen: Digitalisierung, Dokumentation und Visualisierung archäologischer Daten
+title: 'CAD für Archäologen: Digitalisierung, Dokumentation und Visualisierung archäologischer Daten'
 lehrende: Wutte, Anja
 einrichtung: Universität zu Köln
 stadt: Köln

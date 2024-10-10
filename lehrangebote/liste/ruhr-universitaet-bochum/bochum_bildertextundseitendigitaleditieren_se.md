@@ -14,4 +14,4 @@ inhalte:
   - Datenpräsentation
   - Visualisierung
   - Digitale Ressourcen
-  ---
+---

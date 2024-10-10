@@ -16,4 +16,4 @@ inhalte:
   - Datenanalyse (Textdaten)
   - Datenvisualisierung
   - Reguläre Ausdrücke
-  ---
+---

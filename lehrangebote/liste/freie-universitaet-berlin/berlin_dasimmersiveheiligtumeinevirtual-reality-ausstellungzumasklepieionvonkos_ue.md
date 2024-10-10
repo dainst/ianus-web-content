@@ -1,5 +1,5 @@
 ---
-title: Das immersive Heiligtum: Eine Virtual-Reality-Ausstellung zum Asklepieion von Kos
+title: 'Das immersive Heiligtum: Eine Virtual-Reality-Ausstellung zum Asklepieion von Kos'
 lehrende: Müller, Asja
 einrichtung: Freie Univerität Berlin	
 stadt: Berlin

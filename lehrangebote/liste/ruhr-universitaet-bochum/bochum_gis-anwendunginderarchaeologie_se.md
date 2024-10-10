@@ -16,4 +16,4 @@ inhalte:
   - Visualisierung
   - Datenmanagement
   - Dig. Methoden & Theorien
-  ---
+---

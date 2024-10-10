@@ -1,5 +1,5 @@
 ---
-title: Digital Archaeology: Current Techniques and Applications
+title: 'Digital Archaeology: Current Techniques and Applications'
 lehrende: Fless, Friederike
 einrichtung: Freie Univerität Berlin	
 stadt: Berlin

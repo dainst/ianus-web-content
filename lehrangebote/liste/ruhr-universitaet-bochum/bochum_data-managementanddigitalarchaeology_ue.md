@@ -19,5 +19,4 @@ inhalte:
   - Digitale Ressourcen
   - Datenmanagement
   - Dig. Methoden & Theorien
-
-  ---
+---
