@@ -1,4 +1,4 @@
 ---
 title: Vorlage Shooting Log
-file: files/shooting-log.xlsx
+file: ./files/shooting-log.xlsx
 ---
