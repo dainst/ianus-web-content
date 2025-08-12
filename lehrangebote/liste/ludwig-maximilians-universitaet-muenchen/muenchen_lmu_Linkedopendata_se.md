@@ -1,5 +1,5 @@
 ---
-title: Linked open data: Methods and Standards for Digital Cultural Heritage Preservation
+title: "Linked open data: Methods and Standards for Digital Cultural Heritage Preservation"
 lehrende: Sartini, Bruno
 einrichtung: Ludwig-Maximilians-Universität München
 stadt: München

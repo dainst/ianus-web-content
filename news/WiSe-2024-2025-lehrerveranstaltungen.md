@@ -1,13 +1,12 @@
 ---
 title: Lehrveranstaltungen WS 2024/25
 tags: ['Lehrveranstaltung', 'Winter']
-date: 29.04.2024
+date: 2024-04-29
 ---
 
+## Wintersemester 2024/2025
 
 Wir möchten Sie für das Wintersemester 2024/25 erneut aufrufen, diese Sammlung zu unterstützen: https://www.ianus-fdz.de/lehrangebote.
-
-<!--more-->
 
 Sie haben die Möglichkeit, bis zum 15. September 2024 potentiell relevante Lehrveranstaltungen (Seminare, Vorlesungen, Übungen, Tutorien, Kolloquien, Workshops, Summer Schools, Exkursionen) über Pull Requests auf Github - https://github.com/dainst/ianus-web-content - oder per Mail - ianus@dainst.de - einzureichen.
 

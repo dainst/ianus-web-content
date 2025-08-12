@@ -23,7 +23,7 @@ Prof. Friederike Fless
 Dr. Philipp von Rummel  
 Dr. Peter Baumeister
  
-E-Mail: ianus@dainst.de
+E-Mail: ianus[at]dainst.de
 
 ## Haftungsausschluss
 

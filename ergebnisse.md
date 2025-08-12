@@ -1,6 +1,7 @@
 # Ergebnisse 
 
 ## Kurzinformationen zu IANUS
+- DFG-Arbeitsgruppe
 
 - [Mission Statement/Leitbild zum Download](http://ianus-fdz.de/files/2012-12-17_MissionStatement.pdf)
 - [Kurzporträt zum Download](http://ianus-fdz.de/files/Kurzportraet_2013-05-21.pdf)

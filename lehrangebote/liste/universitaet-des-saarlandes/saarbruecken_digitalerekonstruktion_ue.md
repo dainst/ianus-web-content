@@ -1,5 +1,5 @@
 ---
-title: Digitale Rekonstruktion antiker Architektur und Skulptur: 3D-Modellierung und Texturierung mit Blender
+title: "Digitale Rekonstruktion antiker Architektur und Skulptur: 3D-Modellierung und Texturierung mit Blender"
 lehrende: Schmitz, Sascha
 einrichtung: Universität des Saarlandes
 stadt: Saarbrücken
